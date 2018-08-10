@@ -122,10 +122,24 @@ https://github.com/qmk/qmk_firmware/blob/master/keyboards/viterbi/readme.md
 
 <img src="img/Viterbi.jpg" width="400px"/>
 
+
+## Fourier 40
+https://keeb.io/collections/frontpage/products/fourier-40-split-staggered-keyboard
+
+<img src="img/Fourier40.jpg" width="400px"/>
+
+
+## Nyquist
+https://keeb.io/collections/frontpage/products/nyquist-keyboard?variant=48309345990
+
+<img src="img/Nyquist.jpg" width="400px"/> <img src="img/Nyquist_PCB.jpg" width="400px"/>
+
+
 ## For Science
 https://github.com/peej/for-science-keyboard  
 
 <img src="img/ForScience.jpg" width="400px"/> <img src="img/ForScience_PCB.png" width="400px"/>
+
 
 ## Mitosis
 https://github.com/reversebias/mitosis-hardware  
