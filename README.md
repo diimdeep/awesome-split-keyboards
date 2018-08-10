@@ -131,6 +131,8 @@ https://github.com/peej/for-science-keyboard
 https://github.com/reversebias/mitosis-hardware  
 https://github.com/reversebias/mitosis  
 
+<img src="img/Mitosis.jpg" width="400px"/>
+
 
 ## Dactyl
 https://github.com/adereth/dactyl-keyboard  
