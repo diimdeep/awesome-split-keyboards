@@ -166,25 +166,62 @@ https://github.com/technomancy/atreus
 <img src="img/Atreus.jpg" width="400px"/>
 
 
-## Ultimate Hacking Keyboard
+## Keyboardio
+https://shop.keyboard.io/
 
+<img src="img/Keyboardio.jpg" width="400px"/>
+
+
+## SmartYao/Koolertron Keyboard
+https://www.amazon.co.uk/Koolertron-Programmable-Mechanical-Keyboard-Ergonomic/dp/B076FTNXDX  
+https://shop114100401.world.taobao.com  
+http://xahlee.info/kbd/ly092_mini_keyboard.html  
+
+<img src="img/SmartYaoly092.jpg" width="400px"/>
+
+
+## Mistel Barocco
+
+http://www.mistelkeyboard.com/keyboards/
+
+<img src="img/MistelBarocco.jpg" width="400px"/>
+
+
+## VE.A
+https://www.massdrop.com/buy/ve-a
+http://xahlee.info/kbd/VE.A_keyboard.html
+
+<img src="img/VEA.jpg" width="400px"/>
+
+
+## Ultimate Hacking Keyboard
 https://ultimatehackingkeyboard.com
 
 <img src="img/Ultimatehackingkeyboard.jpg" width="400px"/>
 
 
-## Kinesis Advantage 
+## X-Bows
+http://www.x-bows.com/
 
+<img src="img/xbows.jpg" width="400px"/>
+
+
+## Kinesis Advantage 
 https://www.kinesis-ergo.com/shop/advantage2/
 
 <img src="img/KinesisAdvantage2.jpg" width="400px"/>
 
 
 ## Kinesis Freestyle Pro.jpg
-
 https://www.kinesis-ergo.com/shop/freestyle-pro/
 
 <img src="img/KinesisFreestylePro.jpg" width="400px"/>
+
+
+## Matias Ergo Pro
+https://matias.ca/ergopro/pc/
+
+<img src="img/matias_ergo_pro.jpg" width="400px"/>
 
 
 ## DO IT YOURSELF
