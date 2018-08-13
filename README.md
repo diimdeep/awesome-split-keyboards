@@ -188,8 +188,8 @@ http://www.mistelkeyboard.com/keyboards/
 
 
 ## VE.A
-https://www.massdrop.com/buy/ve-a
-http://xahlee.info/kbd/VE.A_keyboard.html
+https://www.massdrop.com/buy/ve-a  
+http://xahlee.info/kbd/VE.A_keyboard.html  
 
 <img src="img/VEA.jpg" width="400px"/>
 
