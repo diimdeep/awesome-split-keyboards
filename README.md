@@ -243,15 +243,32 @@ https://matias.ca/ergopro/pc/
 - https://github.com/qmk/qmk_firmware
 - https://github.com/qmk/qmk_toolbox
 
+## Keycaps
+- https://deskthority.net/wiki/Keyboard_profile
 
-## Shopping, Switches, Keycaps
+<img src="img/SA_DCS_DSA.png"/>
+
+
+## Switches
+- https://deskthority.net/wiki/Keyboard_terminology
+- https://deskthority.net/wiki/Switch_recognition
+- https://kbwiki.ai03.me/books/switch-choice/page/switch-descriptions
+
+### Switches tester
++ https://novelkeys.xyz/collections/switch-testers/products/25-slot-switch-tester
++ https://www.ebay.com/itm/KBDfans-Mechanical-keyboard-Super-Swithes-Tester-63-switches-with-DSA-keycap/253530883073
+
+<img src="img/switch_tester.jpg" width="200px"/> <img src="img/switch_tester2.jpg" width="200px"/>
+
+
+## Shopping
 - http://xkeys.com/accessories/Keycaps.php
 - https://kprepublic.com
 - https://kbdfans.cn
 - https://novelkeys.xyz
 - https://www.candykeys.com
 - https://www.1upkeyboards.com
-
+- Cables https://clarkkable.com
 
 ## Community
 - https://www.reddit.com/r/MechanicalKeyboards/
@@ -418,7 +435,7 @@ https://matias.ca/ergopro/pc/
 [source](https://docs.google.com/spreadsheets/d/19-rTWbp8SCKdZFByPZu3RT8NSF8vVddDe8WL6R6b1qQ/edit#gid=0)
 
 ## About
-Born while doing research for first split keayboard.
+Born while doing research for first split keyboard.
 
 ### Contributing
 Contributions welcome!
