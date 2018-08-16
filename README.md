@@ -59,8 +59,8 @@ https://github.com/jpconstantineau/ErgoTravel
 
 
 ## Helix
-https://github.com/MakotoKurauchi/helix
-https://yushakobo.jp/shop/helix-keyboard-kit/
+https://github.com/MakotoKurauchi/helix  
+https://yushakobo.jp/shop/helix-keyboard-kit/  
 
 <img src="img/Helix.jpg" width="400px"/>
 
@@ -166,6 +166,12 @@ https://github.com/technomancy/atreus
 <img src="img/Atreus.jpg" width="400px"/>
 
 
+## Atreus62
+https://github.com/profet23/atreus62/
+
+<img src="img/Atreus62.jpg" width="400px"/>
+
+
 ## Keyboardio
 https://shop.keyboard.io/
 
@@ -269,6 +275,8 @@ https://matias.ca/ergopro/pc/
 - https://www.candykeys.com
 - https://www.1upkeyboards.com
 - Cables https://clarkkable.com
+- https://falba.tech
+
 
 ## Community
 - https://www.reddit.com/r/MechanicalKeyboards/
