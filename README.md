@@ -253,12 +253,20 @@ https://matias.ca/ergopro/pc/
 - https://deskthority.net/wiki/Keyboard_profile
 
 <img src="img/SA_DCS_DSA.png"/>
+<img src="img/keycaps_profiles.jpeg" height="200px"/>
 
 
 ## Switches
 - https://deskthority.net/wiki/Keyboard_terminology
 - https://deskthority.net/wiki/Switch_recognition
 - https://kbwiki.ai03.me/books/switch-choice/page/switch-descriptions
+- https://input.club/the-comparative-guide-to-mechanical-switches/
+- https://www.keyboardco.com/blog/index.php/2017/11/an-introduction-to-kailh-switches-including-speed-box/
+- https://deskthority.net/wiki/Zealio
+- https://geekboards.ru/page/mechanical_switches_v2
+
+<img src="img/switch diagram lol.jpg" width="200px"/>
+
 
 ### Switches tester
 + https://novelkeys.xyz/collections/switch-testers/products/25-slot-switch-tester
@@ -268,7 +276,6 @@ https://matias.ca/ergopro/pc/
 
 
 ## Shopping
-- http://xkeys.com/accessories/Keycaps.php
 - https://kprepublic.com
 - https://kbdfans.cn
 - https://novelkeys.xyz
@@ -276,17 +283,25 @@ https://matias.ca/ergopro/pc/
 - https://www.1upkeyboards.com
 - Cables https://clarkkable.com
 - https://falba.tech
+- https://mechanicalkeyboards.com
+- https://mykeyboard.eu
+- https://mechboards.co.uk
+- https://keyboardco.com
+- https://pimpmykeyboard.com
+- http://xkeys.com/accessories/Keycaps.php
 
 
 ## Community
 - https://www.reddit.com/r/MechanicalKeyboards/
 - https://geekhack.org
 - https://deskthority.net
+- https://deskthority.net/wiki/Keyboard_communities
 
 ## Wiki
 - https://deskthority.net/wiki/
 - https://wiki.geekhack.org/index.php?title=GeekHackWiki
 - https://www.reddit.com/r/MechanicalKeyboards/wiki/index
+- https://github.com/for2ch/keyboard/wiki
 
 ## Chat
 - Discord: https://discord.gg/mechkeys
