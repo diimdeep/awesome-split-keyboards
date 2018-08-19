@@ -275,7 +275,7 @@ https://en.wikipedia.org/wiki/Maltron
 
 
 ### Switches tester
-+ KBDfans 63 switches with DSA keycaps [ebay](https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575419094&campid=5338362280&mpre=https%3A%2F%2Fwww.ebay.com%2Fitm%2FKBDfans-Mechanical-keyboard-Super-Swithes-Tester-63-switches-with-DSA-keycap%2F253530883073) [aliexpress]
++ KBDfans 63 switches with DSA keycaps [ebay](https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575419094&campid=5338362280&mpre=https%3A%2F%2Fwww.ebay.com%2Fitm%2FKBDfans-Mechanical-keyboard-Super-Swithes-Tester-63-switches-with-DSA-keycap%2F253530883073) [aliexpress](http://s.click.aliexpress.com/e/bkTLDYAc)  
 + https://novelkeys.xyz/collections/switch-testers/products/25-slot-switch-tester
 
 <img src="img/switch_tester.jpg" width="200px"/> <img src="img/switch_tester2.jpg" width="200px"/> <img src="img/switches.jpg" width="200px"/>
