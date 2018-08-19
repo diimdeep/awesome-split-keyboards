@@ -247,7 +247,8 @@ https://en.wikipedia.org/wiki/Maltron
 - https://lasergist.com/shop/lasergist/
 - Ponoko
 - https://www.sculpteo.com/
-
+- https://github.com/nicinabox/lets-split-guide/blob/master/getting-pcbs.md
+- https://github.com/monostable/awesome-electronics
 
 ## Firmware
 - https://github.com/qmk/qmk_firmware
@@ -272,12 +273,12 @@ https://en.wikipedia.org/wiki/Maltron
 <img src="img/switch diagram lol.jpg" width="200px"/>
 
 
+
 ### Switches tester
++ KBDfans 63 switches with DSA keycaps [ebay](https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575419094&campid=5338362280&mpre=https%3A%2F%2Fwww.ebay.com%2Fitm%2FKBDfans-Mechanical-keyboard-Super-Swithes-Tester-63-switches-with-DSA-keycap%2F253530883073) [aliexpress]
 + https://novelkeys.xyz/collections/switch-testers/products/25-slot-switch-tester
-+ https://www.ebay.com/itm/KBDfans-Mechanical-keyboard-Super-Swithes-Tester-63-switches-with-DSA-keycap/253530883073
 
-<img src="img/switch_tester.jpg" width="200px"/> <img src="img/switch_tester2.jpg" width="200px"/>
-
+<img src="img/switch_tester.jpg" width="200px"/> <img src="img/switch_tester2.jpg" width="200px"/> <img src="img/switches.jpg" width="200px"/>
 
 ## Shopping
 - https://kprepublic.com
