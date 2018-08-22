@@ -68,7 +68,7 @@ https://yushakobo.jp/shop/helix-keyboard-kit/
 ## HeliDox
 https://github.com/foostan/crkbd/
 
-<img src="img/HeliDox.png" width="400px"/> <img src="img/HeliDox_PCB.png" width="400px"/>
+<img src="img/HeliDox.jpg" width="400px"/> <img src="img/HeliDox_PCB.jpg" width="400px"/>
 
 
 ## Zen
@@ -135,6 +135,12 @@ https://keeb.io/collections/frontpage/products/nyquist-keyboard?variant=48309345
 <img src="img/Nyquist.jpg" width="400px"/> <img src="img/Nyquist_PCB.jpg" width="400px"/>
 
 
+## BFO-9000
+https://keeb.io/products/bfo-9000-keyboard-customizable-full-size-split-ortholinear
+
+<img src="img/BFO-9000.jpg" width="400px"/> <img src="img/bfo9000_pcb.jpg" width="400px"/>
+
+
 ## For Science
 https://github.com/peej/for-science-keyboard  
 
@@ -151,7 +157,7 @@ https://github.com/reversebias/mitosis
 ## Dactyl
 https://github.com/adereth/dactyl-keyboard  
 
-<img src="img/Dactyl.png" width="400px"/>
+<img src="img/Dactyl.jpg" width="400px"/>
 
 
 ## Dactyl-ManuForm
@@ -256,9 +262,9 @@ https://en.wikipedia.org/wiki/Maltron
 
 ## Keycaps
 - https://deskthority.net/wiki/Keyboard_profile
+- https://pimpmykeyboard.com/key-cap-family-specs/
 
-<img src="img/SA_DCS_DSA.png"/>
-<img src="img/keycaps_profiles.jpeg" height="200px"/>
+<img src="img/SA_DCS_DSA.png"/> <img src="img/keycaps_profiles.jpeg" height="200px"/> <img src="img/keycaps_profiles.jpg" height="200px"/>
 
 
 ## Switches
@@ -297,7 +303,7 @@ https://en.wikipedia.org/wiki/Maltron
 - https://zapcables.com/
 - https://www.coolcable.co.uk/
 - https://www.winnja.com/
-
+- https://mechbox.co.uk/
 
 ## Community
 - https://www.reddit.com/r/MechanicalKeyboards/
