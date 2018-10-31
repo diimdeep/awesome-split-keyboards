@@ -138,5 +138,8 @@ Experiences:
 - Krytox™ GPL 203 PFPE/PTFE
 - SUPER LUBE Synthetic Grease Dielectric PTFE Multi Purpose grease (21030)
 - SUPER LUBE oil (51004)
+- смазка тефлоновая 
 
-https://www.reddit.com/r/MechanicalKeyboards/comments/691ryr/modification_lets_talk_about_keyboard_lube/
+https://www.reddit.com/r/MechanicalKeyboards/comments/691ryr/modification_lets_talk_about_keyboard_lube/  
+Ripster Keyboard Science: Guide to Lubes https://imgur.com/a/lhLqo#1ijLn  
+https://en.wikipedia.org/wiki/NLGI_consistency_number.  

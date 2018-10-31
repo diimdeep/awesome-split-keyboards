@@ -264,6 +264,8 @@ https://en.wikipedia.org/wiki/Maltron
 - https://www.sculpteo.com/
 - https://github.com/nicinabox/lets-split-guide/blob/master/getting-pcbs.md
 - https://github.com/monostable/awesome-electronics
+- Advanced Keyboard Design Tips https://docs.google.com/document/d/1dz-V2qqrpCKF-_q3qNr2MnFS6XejUw0JTC_35orYFSs/edit
+- 3d printing http://www.lexcent.com/
 
 ## Firmware
 - https://github.com/qmk/qmk_firmware
