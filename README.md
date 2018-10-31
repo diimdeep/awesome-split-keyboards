@@ -178,6 +178,15 @@ https://github.com/profet23/atreus62/
 <img src="img/Atreus62.jpg" width="400px"/>
 
 
+## CatBoard ][
+
+http://catboard.klava.org/  
+https://github.com/ibnteo/catboard  
+https://habr.com/post/185500/   
+
+<img src="img/catboard.jpg" width="400px"/> <img src="img/catboard_layout.png" width="400px"/>
+
+
 ## Keyboardio
 https://shop.keyboard.io/
 
