@@ -249,6 +249,13 @@ https://en.wikipedia.org/wiki/Maltron
 
 <img src="img/Maltron.jpg" width="400px"/>
 
+## Cherry ErgoPlus MX 5000 (G80-5000)
+
+http://xahlee.info/kbd/Cherry_Ergoplus_keyboard.html  
+https://deskthority.net/photos-f62/cherry-mx5000-teardown-restoration-g80-5000-haade-t16661.html  
+
+<img src="img/CherryErgoPlus.jpg" width="400px"/>
+
 ## DO IT YOURSELF
 - https://github.com/ruiqimao/keyboard-pcb-guide
 - A modern handwiring guide https://geekhack.org/index.php?topic=87689.0
