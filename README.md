@@ -198,10 +198,10 @@ https://habr.com/post/185500/
 <img src="img/catboard.jpg" width="400px"/> <img src="img/catboard_layout.png" width="400px"/>
 
 
-## Keyboardio
+## Keyboard.io Model01
 https://shop.keyboard.io/
 
-<img src="img/Keyboardio.jpg" width="400px"/>
+<img src="img/Keyboardio_Model01.jpg" width="400px"/>
 
 
 ## SmartYao/Koolertron Keyboard
@@ -422,7 +422,7 @@ https://deskthority.net/photos-f62/cherry-mx5000-teardown-restoration-g80-5000-h
 | Iris                      |                 | Kit       | Columnar Stagger | Yes      | No       | https://keeb.io/collections/keyboard-pcbs/products/iris-keyboard-split-ergonomic-keyboard?variant=2650673709086         |
 | Jemini                    |                 | Prototype | Columnar Stagger | Yes      | Yes      | https://www.reddit.com/r/MechanicalKeyboards/comments/6tmazz/jemini_3d_printed_wireless_wired_split_40/                 |
 | Katana                    |                 | Prototype | Regular          | No       | No       | https://geekhack.org/index.php?topic=80276.0                                                                            |
-| Keyboardio                |                 | Assembled | Columnar Stagger | Yes      | No       | https://shop.keyboard.io/                                                                                               |
+| Keyboard.io Model01       |                 | Assembled | Columnar Stagger | Yes      | No       | https://shop.keyboard.io/                                                                                               |
 | Keymouse                  | 2018/05/01      | Assembled | Columnar Stagger | Yes      | Yes      | https://www.keymouse.com/                                                                                               |
 | Kinesis Advantage 2       |                 | Assembled | Scooped          | No       | No       | https://www.kinesis-ergo.com/shop/advantage2/                                                                           |
 | Kinesis Evolution         | 2001/01/10      | Assembled | Regular          | Yes      | No       | https://www.kinesis-ergo.com/about-us/press-releases/                                                                   |
