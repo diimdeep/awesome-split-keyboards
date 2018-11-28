@@ -177,6 +177,17 @@ https://github.com/profet23/atreus62/
 
 <img src="img/Atreus62.jpg" width="400px"/>
 
+## Atreis
+https://github.com/dekonnection/atreis  
+https://www.reddit.com/r/MechanicalKeyboards/comments/8gt4cj/photos_the_atreis_an_unsplitted_iris/  
+
+<img src="img/Atreis.jpg" width="400px"/>
+
+## Pteron
+https://github.com/FSund/pteron-keyboard  
+https://www.reddit.com/r/MechanicalKeyboards/comments/9blobs/the_pteron/  
+
+<img src="img/Pteron.jpg" width="400px"/>
 
 ## CatBoard ][
 
