@@ -29,6 +29,7 @@ https://ru.aliexpress.com/store/product/ergodone-Custom-Mechanical-Keyboard-TKG-
 
 ## Gergo
 https://www.gboards.ca/
+
 https://github.com/germ/qmk_firmware
 
 <img src="img/Gergo.jpg" width="400px"/> 
