@@ -27,6 +27,11 @@ https://ru.aliexpress.com/store/product/ergodone-Custom-Mechanical-Keyboard-TKG-
 
 <img src="img/Ergodone.jpg" width="400px"/> <img src="img/Ergodone_PCB.jpg" width="400px"/>
 
+## Gergo
+https://www.gboards.ca/
+https://github.com/germ/qmk_firmware
+
+<img src="img/Gergo.jpg" width="400px"/> 
 
 ## Redox
 https://github.com/mattdibi/redox-keyboard  
