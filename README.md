@@ -280,6 +280,11 @@ https://www.dygma.com/raise/
 
 <img src="img/Dygma-Raise-Mechanical-Split-Keyboard.jpg" width="400px"/> <img src="img/Dygma-Raise-Mechanical-Split-Keyboard_white.jpg" width="400px"/>
 
+## ErgoDash
+https://github.com/omkbd/ErgoDash
+
+<img src="img/Ergodash.jpg" width="400px"/>
+
 
 ## DO IT YOURSELF
 - https://github.com/ruiqimao/keyboard-pcb-guide
@@ -417,6 +422,7 @@ https://www.dygma.com/raise/
 | Dygma Raise |                 | Assembled | Regular          | Yes      | No       | https://www.dygma.com/raise/                          |
 | EM7                       | 2016/07/07      | Prototype | Regular          | No       | No       | https://geekhack.org/index.php?topic=83328.0                                                                            |
 | Ergo42                    | 2018/03/31      | Prototype | Ortho            | Yes      | No       | https://twitter.com/Biacco42/status/980275596927279104                                                                  |
+| ErgoDash                  |                 | Protoype  | Columnar Stagger | Yes      | No       | https://github.com/omkbd/ErgoDash                                                                                       |
 | Ergodone                  |                 | Kit       | Columnar Stagger | Yes      | No       | https://kbdfans.myshopify.com/products/ergodone-keyboard-pcb-1pcs-free-shipping                                         |
 | Ergodox                   |                 | Kit       | Columnar Stagger | Yes      | No       | https://www.ergodox.io/                                                                                                 |
 | Ergodox EZ                |                 | Assembled | Columnar Stagger | Yes      | No       | https://ergodox-ez.com/                                                                                                 |
