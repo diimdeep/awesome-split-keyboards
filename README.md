@@ -280,6 +280,11 @@ https://www.dygma.com/raise/
 
 <img src="img/Dygma-Raise-Mechanical-Split-Keyboard.jpg" width="400px"/> <img src="img/Dygma-Raise-Mechanical-Split-Keyboard_white.jpg" width="400px"/>
 
+## Lily58
+
+https://github.com/kata0510/Lily58
+
+<img src="img/lily58_keyboard.jpg" width="400px"/>
 
 ## DO IT YOURSELF
 - https://github.com/ruiqimao/keyboard-pcb-guide
@@ -448,6 +453,7 @@ https://www.dygma.com/raise/
 | Let's Split               |                 | Assembled | Ortho            | Yes      | No       | https://mehkee.com/products/lets-split-pcb?variant=46050392207                                                          |
 | Let's Split (Wireless)    | 2018/01/02      | Prototype | Ortho            | Yes      | Yes      | https://www.reddit.com/r/MechanicalKeyboards/comments/7nox6q/wireless_lets_split_build_log_with_both_mx_and             |
 | Levinson                  |                 | Kit       | Ortho            | Yes      | No       | https://keeb.io/collections/keyboard-pcbs/products/levinson-lets-split-w-led-backlight                                  |
+| Lily58                    |                 | Kit       | Columnar Stagger | Yes      | No       | https://github.com/kata0510/Lily58                                                                                      |
 | Lowrider                  | 2017/11/14      | Prototype | Ortho            | Yes      | No       | https://www.reddit.com/r/MechanicalKeyboards/comments/7cy02i/time_to_splitbig_split_and_lowrider_5x8_non/               |
 | Lynx                      |                 | Assembled | Regular          | Yes      | No       | http://sonorankeyboards.com/#lynx                                                                                       |
 | LZ Ergo                   |                 | Prototype | Regular          | No       | No       | https://geekhack.org/index.php?topic=83313.0                                                                            |
