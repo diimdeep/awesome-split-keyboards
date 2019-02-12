@@ -303,6 +303,7 @@ https://github.com/kata0510/Lily58
 - https://github.com/monostable/awesome-electronics
 - Advanced Keyboard Design Tips https://docs.google.com/document/d/1dz-V2qqrpCKF-_q3qNr2MnFS6XejUw0JTC_35orYFSs/edit
 - 3d printing http://www.lexcent.com/
+- PCB Designer Guide by ai03 https://kbwiki.ai03.me/books/pcb-design/chapter/pcb-designer-guide
 
 ## Firmware
 - https://github.com/qmk/qmk_firmware
