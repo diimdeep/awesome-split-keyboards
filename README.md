@@ -29,12 +29,14 @@ https://ru.aliexpress.com/store/product/ergodone-Custom-Mechanical-Keyboard-TKG-
 
 ## Georgi
 https://www.gboards.ca/
+
 https://github.com/qmk/qmk_firmware/tree/master/keyboards/georgi
 
 <img src="img/Georgi.jpg" width="400px"/> <img src="img/Georgi2.jpg" width="400px"/> 
 
 ## Gergo
 https://www.gboards.ca/
+
 https://github.com/qmk/qmk_firmware/tree/master/keyboards/gergo
 
 <img src="img/Gergo.jpg" width="400px"/>  <img src="img/Gergo2.jpg" width="400px"/> 
