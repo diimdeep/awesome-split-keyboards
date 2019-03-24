@@ -105,6 +105,14 @@ https://github.com/keebio/iris-case
 <img src="img/Iris.jpg" width="400px"/>
 
 
+## Fortitude60
+
+https://github.com/Pekaso/fortitude60  
+https://yushakobo.jp/shop/fortitude60
+
+<img src="img/Fortitude60-otakublack.jpeg" width="400px"/> <img src="img/Fortitude60-ikiriwhite.jpg" width="400px"/>
+
+
 ## Levinson
 
 https://keeb.io/products/levinson-lets-split-w-led-backlight  
