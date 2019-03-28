@@ -8,7 +8,7 @@
 
 ## Ergodox
 https://www.ergodox.io  
-[Tenting](https://github.com/adereth/ergodox-tent)
+[Tenting](https://GitHub.com/adereth/ergodox-tent)
 
 <img src="img/ErgoDox-original-min.png" width="400px"/>
 
@@ -21,7 +21,7 @@ https://input.club/devices/infinity-ergodox/
 
 ## ErgoDox EZ
 https://ergodox-ez.com  
-[Tenting](https://github.com/rothgar/ergodox-ez-tent-kit)  
+[Tenting](https://GitHub.com/rothgar/ergodox-ez-tent-kit)  
 
 <img src="img/Ergodox_EZ.jpg" width="400px"/> <img src="img/Ergodox_EZ_white.jpg" width="400px"/>
 
@@ -34,14 +34,14 @@ https://ru.aliexpress.com/store/product/ergodone-Custom-Mechanical-Keyboard-TKG-
 <img src="img/Ergodone.jpg" width="400px"/> <img src="img/Ergodone_PCB.jpg" width="400px"/>
 
 ## Redox
-https://github.com/mattdibi/redox-keyboard  
-https://github.com/Lenbok/scad-redox-case  
+https://GitHub.com/mattdibi/redox-keyboard  
+https://GitHub.com/Lenbok/scad-redox-case  
 
 <img src="img/Redox.jpg" width="400px"/> <img src="img/Redox_PCB.jpg" width="400px"/>
 
 
 ## Let's Split
-https://github.com/nicinabox/lets-split-guide  
+https://GitHub.com/nicinabox/lets-split-guide  
 http://groupbuys.mechboards.co.uk/shop/lets-split-eh-pcbs/  
 https://mehkee.com/products/lets-split-pcb  
 
@@ -50,27 +50,27 @@ https://mehkee.com/products/lets-split-pcb
 
 ## Minidox
 
-https://github.com/That-Canadian/MiniDox_PCB  
-https://github.com/dotdash32/cases/tree/master/Minidox  
+https://GitHub.com/That-Canadian/MiniDox_PCB  
+https://GitHub.com/dotdash32/cases/tree/master/Minidox  
 
 <img src="img/MiniDox.jpg" width="400px"/>
 
 
 ## Ergotravel
-https://github.com/jpconstantineau/ErgoTravel
+https://GitHub.com/jpconstantineau/ErgoTravel
 
 <img src="img/Ergotravel.jpg" width="400px"/>
 
 
 ## Helix
-https://github.com/MakotoKurauchi/helix  
+https://GitHub.com/MakotoKurauchi/helix  
 https://yushakobo.jp/shop/helix-keyboard-kit/  
 
 <img src="img/Helix.jpg" width="400px"/>
 
 
 ## HeliDox
-https://github.com/foostan/crkbd/
+https://GitHub.com/foostan/crkbd/
 
 <img src="img/HeliDox.jpg" width="400px"/> <img src="img/HeliDox_PCB.jpg" width="400px"/>
 
@@ -80,7 +80,7 @@ https://www.rgbkb.net/products/zen-keyboard
 
 https://legonut.gitbooks.io/zen-keyboard/content/  
 https://legonut.gitbooks.io/zen-keyboard/content/flashing.html  
-https://github.com/qmk/qmk_firmware/blob/master/keyboards/zen/readme.md  
+https://GitHub.com/qmk/qmk_firmware/blob/master/keyboards/zen/readme.md  
 
 https://www.youtube.com/watch?v=1tDWJe_P5PQ
 
@@ -94,7 +94,7 @@ https://www.rgbkb.net/pages/announcing-sol-the-brightest-keyboard-on-earth
 
 
 ## Chimera Ergo
-https://github.com/GlenPickle/Chimera
+https://GitHub.com/GlenPickle/Chimera
 
 <img src="img/Chimera.jpg" width="400px"/>
 
@@ -102,8 +102,8 @@ https://github.com/GlenPickle/Chimera
 ## Iris
 
 https://keeb.io/products/iris-keyboard-split-ergonomic-keyboard  
-https://github.com/qmk/qmk_firmware/tree/master/keyboards/iris  
-https://github.com/keebio/iris-case  
+https://GitHub.com/qmk/qmk_firmware/tree/master/keyboards/iris  
+https://GitHub.com/keebio/iris-case  
 
 <img src="img/Iris.jpg" width="400px"/>
 
@@ -112,7 +112,7 @@ https://github.com/keebio/iris-case
 
 https://keeb.io/products/levinson-lets-split-w-led-backlight  
 https://keeb.io/products/levinson-keyboard-case-plates  
-https://github.com/qmk/qmk_firmware/blob/master/keyboards/levinson/readme.md  
+https://GitHub.com/qmk/qmk_firmware/blob/master/keyboards/levinson/readme.md  
 
 <img src="img/Levinson.jpg" width="400px"/>
 
@@ -143,49 +143,49 @@ https://keeb.io/products/bfo-9000-keyboard-customizable-full-size-split-ortholin
 
 
 ## For Science
-https://github.com/peej/for-science-keyboard  
+https://GitHub.com/peej/for-science-keyboard  
 
 <img src="img/ForScience.jpg" width="400px"/> <img src="img/ForScience_PCB.png" width="400px"/>
 
 
 ## Mitosis
-https://github.com/reversebias/mitosis-hardware  
-https://github.com/reversebias/mitosis  
+https://GitHub.com/reversebias/mitosis-hardware  
+https://GitHub.com/reversebias/mitosis  
 
 <img src="img/Mitosis.jpg" width="400px"/>
 
 
 ## Dactyl
-https://github.com/adereth/dactyl-keyboard  
+https://GitHub.com/adereth/dactyl-keyboard  
 
 <img src="img/Dactyl.jpg" width="400px"/>
 
 
 ## Dactyl-ManuForm
-https://github.com/tshort/dactyl-keyboard
+https://GitHub.com/tshort/dactyl-keyboard
 
 <img src="img/Dactyl-ManuForm.jpg" width="400px"/>
 
 
 ## Atreus
-https://github.com/technomancy/atreus  
+https://GitHub.com/technomancy/atreus  
 
 <img src="img/Atreus.jpg" width="400px"/>
 
 
 ## Atreus62
-https://github.com/profet23/atreus62/
+https://GitHub.com/profet23/atreus62/
 
 <img src="img/Atreus62.jpg" width="400px"/>
 
 ## Atreis
-https://github.com/dekonnection/atreis  
+https://GitHub.com/dekonnection/atreis  
 https://www.reddit.com/r/MechanicalKeyboards/comments/8gt4cj/photos_the_atreis_an_unsplitted_iris/  
 
 <img src="img/Atreis.jpg" width="400px"/>
 
 ## Pteron
-https://github.com/FSund/pteron-keyboard  
+https://GitHub.com/FSund/pteron-keyboard  
 https://www.reddit.com/r/MechanicalKeyboards/comments/9blobs/the_pteron/  
 
 <img src="img/Pteron.jpg" width="400px"/>
@@ -193,7 +193,7 @@ https://www.reddit.com/r/MechanicalKeyboards/comments/9blobs/the_pteron/
 ## CatBoard ][
 
 http://catboard.klava.org/  
-https://github.com/ibnteo/catboard  
+https://GitHub.com/ibnteo/catboard  
 https://habr.com/post/185500/   
 
 <img src="img/catboard.jpg" width="400px"/> <img src="img/catboard_layout.png" width="400px"/>
@@ -202,7 +202,7 @@ https://habr.com/post/185500/
 ## Gergo
 
 https://www.gboards.ca/  
-https://github.com/germ/qmk_firmware  
+https://GitHub.com/germ/qmk_firmware  
 https://www.reddit.com/r/MechanicalKeyboards/search?q=gergo&restrict_sr=on  
 
 <img src="img/Gergo.jpg" width="400px"/> 
@@ -284,7 +284,7 @@ https://www.dygma.com/raise/
 
 
 ## DO IT YOURSELF
-- https://github.com/ruiqimao/keyboard-pcb-guide
+- https://GitHub.com/ruiqimao/keyboard-pcb-guide
 - A modern handwiring guide https://geekhack.org/index.php?topic=87689.0
 - https://wiki.geekhack.org/index.php?title=Hard-Wiring_How-To
 - Socketing http://www.40percent.club/p/socketing-pro-micro.html
@@ -292,18 +292,18 @@ https://www.dygma.com/raise/
 - http://www.keyboard-layout-editor.com
 - http://builder.swillkb.com/ Plate & Case Builder keyboard top plate CAD files generator, for keyboard-layout-editor generated layouts
 - https://pcbshopper.com
-- https://github.com/adius/awesome-laser-cutting
+- https://GitHub.com/adius/awesome-laser-cutting
 - https://lasergist.com/shop/lasergist/
 - Ponoko
 - https://www.sculpteo.com/
-- https://github.com/nicinabox/lets-split-guide/blob/master/getting-pcbs.md
-- https://github.com/monostable/awesome-electronics
+- https://GitHub.com/nicinabox/lets-split-guide/blob/master/getting-pcbs.md
+- https://GitHub.com/monostable/awesome-electronics
 - Advanced Keyboard Design Tips https://docs.google.com/document/d/1dz-V2qqrpCKF-_q3qNr2MnFS6XejUw0JTC_35orYFSs/edit
 - 3d printing http://www.lexcent.com/
 
 ## Firmware
-- https://github.com/qmk/qmk_firmware
-- https://github.com/qmk/qmk_toolbox
+- https://GitHub.com/qmk/qmk_firmware
+- https://GitHub.com/qmk/qmk_toolbox
 
 ## Keycaps
 - https://deskthority.net/wiki/Keyboard_profile
@@ -360,7 +360,7 @@ https://www.dygma.com/raise/
 - https://deskthority.net/wiki/
 - https://wiki.geekhack.org/index.php?title=GeekHackWiki
 - https://www.reddit.com/r/MechanicalKeyboards/wiki/index
-- https://github.com/for2ch/keyboard/wiki
+- https://GitHub.com/for2ch/keyboard/wiki
 
 ## Chat
 - Discord: https://discord.gg/mechkeys
@@ -407,7 +407,7 @@ https://www.dygma.com/raise/
 | Corvus                    | 2016/10/11      | Prototype | Columnar Stagger | No       | No       | https://todaytakeseverything.wordpress.com/2016/10/11/the-journey-to-corvus-a-keyboards-tale/                           |
 | Crocodox                  | 2018/05/26      | Prototype | Columnar Stagger | Yes      | No       | https://www.reddit.com/r/MechanicalKeyboards/comments/8mffkv/crocodox/                                                  |
 | Curves                    | 2018/03/22      | Prototype | Columnar Stagger | Yes      | Yes      | https://www.reddit.com/r/MechanicalKeyboards/comments/86asf6/curves_my_bluetooth_split                                  |
-| Dactyl                    |                 | Prototype | Scooped          | Yes      | No       | https://github.com/adereth/dactyl-keyboard                                                                              |
+| Dactyl                    |                 | Prototype | Scooped          | Yes      | No       | https://GitHub.com/adereth/dactyl-keyboard                                                                              |
 | Dactyl Lightcycle         | 2017/05/11      | Prototype | Scooped          | Yes      | No       | https://twitter.com/adereth/status/862796553500540929                                                                   |
 | DeltaSplit75              |                 | Kit       | Regular          | Yes      | No       | https://www.reddit.com/r/MechanicalKeyboards/comments/6d10fg/deltasplit75_a_75_staggered_split_keyboard/                |
 | Deluxe Designer           | 2018/05/01      | Assembled | Regular          | Yes      | No       | https://www.kickstarter.com/projects/1594516409/delux-designer-the-perfect-assistant-for-designers/                     |
@@ -426,13 +426,13 @@ https://www.dygma.com/raise/
 | Esrille                   |                 | Assembled | Columnar Stagger | No       | No       | http://www.esrille.com/keyboard/                                                                                        |
 | Eucalyptus                |                 | Prototype | Columnar Stagger | Yes      | No       | https://www.reddit.com/r/MechanicalKeyboards/comments/6psa7j/photos_1st_prototype_of_my_keyboard_wip/                   |
 | Foobar                    | 2017/09/01      | Prototype | Ortho            | Yes      | No       | http://www.40percent.club/2017/09/foobar-10.html                                                                        |
-| For Science               | 2018/0206       | Prototype | Ortho            | Yes      | No       | https://github.com/peej/for-science-keyboard                                                                            |
+| For Science               | 2018/0206       | Prototype | Ortho            | Yes      | No       | https://GitHub.com/peej/for-science-keyboard                                                                            |
 | Fourier                   | 2018/02/27      | Prototype | Regular          | Yes      | No       | https://www.reddit.com/r/MechanicalKeyboards/comments/80nu2e/new_toy_complete_fourier_split_staggered_40/               |
 | Galz v1                   | 2018/02/14      | Prototype | Columnar Stagger | Yes      | No       | https://www.reddit.com/r/MechanicalKeyboards/comments/7xjmom/my_3d_printed_split_ortholinear_keyboard_with/             |
 | Halfmoon                  | 2018/01/19      | Prototype | Columnar Stagger | No       | No       | http://www.billybuerger.com/pages/20180119_HalfMoon/                                                                    |
 | Hayboard                  | 2018/01/09      | Prototype | Ortho            | No       | No       | https://www.reddit.com/r/MechanicalKeyboards/comments/7p94t3/i_made_my_first_custom_hand_wired_keyboard_it_was/         |
 | Helicase                  | 2018/02/20      | Kit       | Ortho            | Yes      | Yes      | https://www.reddit.com/r/mechmarket/comments/7ywlmb/gb_40_60_and_70_wireless_split_ortholinear/                         |
-| Helix                     | 2018/01/25      | Prototype | Ortho            | Yes      | No       | https://github.com/MakotoKurauchi/helix                                                                                 |
+| Helix                     | 2018/01/25      | Prototype | Ortho            | Yes      | No       | https://GitHub.com/MakotoKurauchi/helix                                                                                 |
 | Interphase                | 2017/11/29      | Prototype | Columnar Stagger | Yes      | Yes      | https://www.reddit.com/r/MechanicalKeyboards/comments/7ggeww/photos_interphase_finished_my_prototype/                   |
 | Iota                      | 2017/08/29      | Prototype | Ortho            | Yes      | No       | http://www.40percent.club/2017/08/16mm-split-40.html                                                                    |
 | Iris                      |                 | Kit       | Columnar Stagger | Yes      | No       | https://keeb.io/collections/keyboard-pcbs/products/iris-keyboard-split-ergonomic-keyboard?variant=2650673709086         |
@@ -441,10 +441,10 @@ https://www.dygma.com/raise/
 | Keyboard.io Model01       |                 | Assembled | Columnar Stagger | Yes      | No       | https://shop.keyboard.io/                                                                                               |
 | Keymouse                  | 2018/05/01      | Assembled | Columnar Stagger | Yes      | Yes      | https://www.keymouse.com/                                                                                               |
 | Kinesis Advantage 2       |                 | Assembled | Scooped          | No       | No       | https://www.kinesis-ergo.com/shop/advantage2/                                                                           |
-| Kinesis Evolution         | 2001/01/10      | Assembled | Regular          | Yes      | No       | https://www.kinesis-ergo.com/about-us/press-releases/                                                                   |
+| Kinesis Evolution         | 2001/01/10      | Assembled | Regular          | Yes      | No       | https://www.kinesis-ergo.com/about-us/press-releases/                                                                  |
 | Kinesis Freestyle Edge    |                 | Assembled | Regular          | Yes      | No       | https://gaming.kinesis-ergo.com/fsedge/                                                                                 |
-| Kinesis Freestyle Pro     |                 | Assembled | Regular          | No       | No       | https://kinesis-ergo.com/keyboards/freestyle-pro-keyboard/                                                                         |
-| Koolerton Split Keyboard  |                 | Assembled | Regular          | No       | No       | https://www.amazon.com/Koolertron-Programmable-Mechanical-Keyboard-Ergonomic/dp/B076FQB6Q3                              |
+| Kinesis Freestyle Pro     |                 | Assembled | Regular          | No       | No       | https://kinesis-ergo.com/keyboards/freestyle-pro-keyboard/                                                                  |
+| Koolerton Split Keyboard  |                 | Assembled | Regular          | No       | No       | https://www.amazon.com/Koolertron-Programmable-Mechanical-Keyboard-Ergonomic/dp/B076FQB6Q3                                |
 | Let's Burst               |                 | Prototype | Ortho            | Yes      | No       | https://www.reddit.com/r/MechanicalKeyboards/comments/7ctpxp/lets_burst_the_hand_wired_alien_inspired_lets/             |
 | Let's Split               |                 | Assembled | Ortho            | Yes      | No       | https://mehkee.com/products/lets-split-pcb?variant=46050392207                                                          |
 | Let's Split (Wireless)    | 2018/01/02      | Prototype | Ortho            | Yes      | Yes      | https://www.reddit.com/r/MechanicalKeyboards/comments/7nox6q/wireless_lets_split_build_log_with_both_mx_and             |
@@ -460,7 +460,7 @@ https://www.dygma.com/raise/
 | Meiosis                   | 2018/01/31      | Kit       | Ortho            | Yes      | No       | https://www.reddit.com/r/MechanicalKeyboards/comments/7uasay/meiosis_a_wireless_split_ortholinear_50_keyboard/          |
 | Microdox                  |                 | Prototype | Columnar Stagger | Yes      | No       | https://www.reddit.com/r/MechanicalKeyboards/comments/48ncwa/after_a_year_of_planning_tests_and_development_i/          |
 | MicroMechBoard            |                 | Prototype | Ortho            | Yes      | No       | http://yager.io/keyboard/keyboard.html                                                                                  |
-| Minidox                   |                 | Prototype | Columnar Stagger | Yes      | No       | https://github.com/That-Canadian/MiniDox_PCB                                                                            |
+| Minidox                   |                 | Prototype | Columnar Stagger | Yes      | No       | https://GitHub.com/That-Canadian/MiniDox_PCB                                                                            |
 | Minimax                   | 2018/02/24      | Prototype | Scooped          | Yes      | No       | https://www.reddit.com/r/MechanicalKeyboards/comments/7zxn8j/photos_my_final_3d_ergo_layout/                            |
 | Minimus                   |                 | Prototype | Scooped          | Yes      | No       | https://www.reddit.com/r/MechanicalKeyboards/comments/7gzpe6/photos_testing_my_new_40_3d_split_layout/                  |
 | Mistel Barocco            |                 | Assembled | Regular          | Yes      | No       | https://www.mistelkeyboard.com/keyboards                                                                                |
@@ -490,11 +490,11 @@ https://www.dygma.com/raise/
 | Skyline                   | 2018/01/05      | Prototype | Ortho            | Yes      | No       | https://www.reddit.com/r/MechanicalKeyboards/comments/7oa04c/skyline_v1_lego_compatible_split_keyboard_it_lives/        |
 | SlowBro80                 |                 | Assembled | Regular          | No       | No       | http://shop.sonorankeyboards.com/item/slowbro                                                                           |
 | Space Invader             | 2018/06/05      | Prototype | Columnar Stagger | Yes      | No       | https://www.reddit.com/r/MechanicalKeyboards/comments/8olilw/space_invader_update                                       |
-| Speedo                    | 2018/04/06      | Prototype | Columnar Stagger | No       | No       | https://github.com/pcewing/speedo                                                                                       |
+| Speedo                    | 2018/04/06      | Prototype | Columnar Stagger | No       | No       | https://GitHub.com/pcewing/speedo                                                                                       |
 | Split70                   | 2017/08/18      | Prototype | Columnar Stagger | Yes      | No       | http://www.galengold.me/split70/                                                                                        |
 | Split Atreus              |                 | Prototype | Columnar Stagger | Yes      | No       | https://www.reddit.com/r/MechanicalKeyboards/comments/4q0g4e/fully_3d_printed_split_atreus/                             |
-| Split Bluetooth Keyboard  | 2017/11/24      | Prototype | Columnar Stagger | Yes      | Yes      | https://gist.github.com/wez/b30683a4dfa329b86b9e0a2811a8c593                                                            |
-| SpockKeyboard             | 2018/04/08      | Prototype | Columnar Stagger | Yes      | No       | https://github.com/wez/SpockKeyboard                                                                                    |
+| Split Bluetooth Keyboard  | 2017/11/24      | Prototype | Columnar Stagger | Yes      | Yes      | https://gist.GitHub.com/wez/b30683a4dfa329b86b9e0a2811a8c593                                                            |
+| SpockKeyboard             | 2018/04/08      | Prototype | Columnar Stagger | Yes      | No       | https://GitHub.com/wez/SpockKeyboard                                                                                    |
 | Stratos v2                |                 | Prototype | Columnar Stagger | Yes      | No       | https://www.reddit.com/r/MechanicalKeyboards/comments/3ogujx/photos_stratos_v2_the_175_fullcustom_split/                |
 | SX60                      | 2018/05/26      | Kit       | Regular          | Yes      | No       | https://geekhack.org/index.php?topic=92805.0                                                                            |
 | Telophase                 | 2018/02/20      | Kit       | Ortho            | Yes      | Yes      | https://www.reddit.com/r/mechmarket/comments/7ywlmb/gb_40_60_and_70_wireless_split_ortholinear/                         |
@@ -523,5 +523,5 @@ Born while doing research for first split keyboard.
 
 Contributions are always welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
 
-### License
+## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
