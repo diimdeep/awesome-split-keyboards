@@ -1,5 +1,11 @@
 # Awesome Split Keyboards [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+
+## Contents
+
+- [Ergodox](#ergodox)
+
+
 ## Ergodox
 https://www.ergodox.io  
 [Tenting](https://github.com/adereth/ergodox-tent)
@@ -392,7 +398,7 @@ https://www.dygma.com/raise/
 | Atreus58                  |                 | Prototype | Columnar Stagger | No       | No       | https://www.reddit.com/r/MechanicalKeyboards/comments/5xirhn/after_months_of_planning_and_designing_i_finally/          |
 | Atreus62                  |                 | Assembled | Columnar Stagger | No       | No       | http://shop.profetkeyboards.com/product/atreus62-keyboard                                                               |
 | Big Split                 | 2017/11/14      | Prototype | Ortho            | Yes      | No       | https://www.reddit.com/r/MechanicalKeyboards/comments/7jxnbm/big_split_v0r1_w%C3%B3rking_so_far_wooooo/                 |
-| Blackhawk                 |                 | Prototype | Columnar Stagger | Yes      | No       | https://deskthority.net/workshop-f7/hand-wired-54key-full-split-custom-build-t12545.html                                |
+| Blackhawk                 |                 | Prototype | Columnar Stagger | Yes      | No       | https://deskthority.net/workshop-f6/hand-wired-54key-full-split-custom-build-t12545.html                                |
 | Caravan                   |                 | Prototype | Regular          | Yes      | No       | https://www.reddit.com/r/MechanicalKeyboards/comments/58rhsv/photos_like_a_glove_caravan_by_thevan_keyboards/           |
 | Catboard                  |                 | Prototype | Columnar Stagger | No       | No       | http://catboard.klava.org/                                                                                              |
 | Centromere                | 2018/03/08      | Prototype | Columnar Stagger | Yes      | Yes      | https://www.reddit.com/r/MechanicalKeyboards/comments/830g66/the_thinnest_wireless_keyboard_i_have_made/                |
@@ -513,8 +519,9 @@ https://www.dygma.com/raise/
 ## About
 Born while doing research for first split keyboard.
 
-### Contributing
-Contributions welcome!
+## Contribute
+
+Contributions are always welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
 
 ### License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
