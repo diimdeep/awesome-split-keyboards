@@ -36,7 +36,6 @@ https://github.com/Lenbok/scad-redox-case
 
 ## Let's Split
 https://github.com/nicinabox/lets-split-guide  
-https://www.maple-computing.com/collections/frontpage/products/lets-split-eh-leftovers  
 http://groupbuys.mechboards.co.uk/shop/lets-split-eh-pcbs/  
 https://mehkee.com/products/lets-split-pcb  
 
@@ -72,7 +71,6 @@ https://github.com/foostan/crkbd/
 
 ## Zen
 https://www.rgbkb.net/products/zen-keyboard  
-https://mykeyboard.eu/catalogue/category/keyboard-kits/zen-keyboard_55/  
 
 https://legonut.gitbooks.io/zen-keyboard/content/  
 https://legonut.gitbooks.io/zen-keyboard/content/flashing.html  
@@ -97,7 +95,6 @@ https://github.com/GlenPickle/Chimera
 
 ## Iris
 
-https://www.candykeys.com/product/iris-pcb-white/  
 https://keeb.io/products/iris-keyboard-split-ergonomic-keyboard  
 https://github.com/qmk/qmk_firmware/tree/master/keyboards/iris  
 https://github.com/keebio/iris-case  
@@ -117,7 +114,6 @@ https://github.com/qmk/qmk_firmware/blob/master/keyboards/levinson/readme.md
 ## Viterbi
 
 https://keeb.io/products/viterbi-keyboard-pcbs-5x7-70-split-ortholinear  
-https://github.com/qmk/qmk_firmware/blob/master/keyboards/viterbi/readme.md  
 
 <img src="img/Viterbi.jpg" width="400px"/>
 
@@ -395,7 +391,6 @@ https://www.dygma.com/raise/
 | Atreus                    |                 | Assembled | Columnar Stagger | No       | No       | https://atreus.technomancy.us/                                                                                          |
 | Atreus58                  |                 | Prototype | Columnar Stagger | No       | No       | https://www.reddit.com/r/MechanicalKeyboards/comments/5xirhn/after_months_of_planning_and_designing_i_finally/          |
 | Atreus62                  |                 | Assembled | Columnar Stagger | No       | No       | http://shop.profetkeyboards.com/product/atreus62-keyboard                                                               |
-| Axios                     |                 | Prototype | Columnar Stagger | Yes      | No       | http://axios.io/models                                                                                                  |
 | Big Split                 | 2017/11/14      | Prototype | Ortho            | Yes      | No       | https://www.reddit.com/r/MechanicalKeyboards/comments/7jxnbm/big_split_v0r1_w%C3%B3rking_so_far_wooooo/                 |
 | Blackhawk                 |                 | Prototype | Columnar Stagger | Yes      | No       | https://deskthority.net/workshop-f7/hand-wired-54key-full-split-custom-build-t12545.html                                |
 | Caravan                   |                 | Prototype | Regular          | Yes      | No       | https://www.reddit.com/r/MechanicalKeyboards/comments/58rhsv/photos_like_a_glove_caravan_by_thevan_keyboards/           |
@@ -442,7 +437,7 @@ https://www.dygma.com/raise/
 | Kinesis Advantage 2       |                 | Assembled | Scooped          | No       | No       | https://www.kinesis-ergo.com/shop/advantage2/                                                                           |
 | Kinesis Evolution         | 2001/01/10      | Assembled | Regular          | Yes      | No       | https://www.kinesis-ergo.com/about-us/press-releases/                                                                   |
 | Kinesis Freestyle Edge    |                 | Assembled | Regular          | Yes      | No       | https://gaming.kinesis-ergo.com/fsedge/                                                                                 |
-| Kinesis Maxim             |                 | Assembled | Regular          | No       | No       | https://www.kinesis-ergo.com/shop/maxim-for-pc/                                                                         |
+| Kinesis Freestyle Pro     |                 | Assembled | Regular          | No       | No       | https://kinesis-ergo.com/keyboards/freestyle-pro-keyboard/                                                                         |
 | Koolerton Split Keyboard  |                 | Assembled | Regular          | No       | No       | https://www.amazon.com/Koolertron-Programmable-Mechanical-Keyboard-Ergonomic/dp/B076FQB6Q3                              |
 | Let's Burst               |                 | Prototype | Ortho            | Yes      | No       | https://www.reddit.com/r/MechanicalKeyboards/comments/7ctpxp/lets_burst_the_hand_wired_alien_inspired_lets/             |
 | Let's Split               |                 | Assembled | Ortho            | Yes      | No       | https://mehkee.com/products/lets-split-pcb?variant=46050392207                                                          |
