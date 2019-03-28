@@ -1,0 +1,13 @@
+---
+language: ruby
+sudo: required
+rvm:
+  - 2.4.1
+
+install:
+  - sudo apt update --yes
+  - sudo apt install ca-certificates
+  - gem install awesome_bot
+
+script:
+  - awesome_bot README.md --allow-redirect --white-list "www.defcon.org,www.0day.today,mvfjfugdwgc5uwho.onion,creativecommons.org,netsparker.com,www.shodan.io,www.mhprofessional.com,ghostproject.fr,www.zoomeye.org"
