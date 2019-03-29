@@ -4,7 +4,61 @@
 ## Contents
 
 - [Ergodox](#ergodox)
-
+- [Ergodox infinity](#ergodox-infinity)
+- [Ergodox EZ](#ergodox-ez)
+- [Ergodone](#ergodone)
+- [Redox](#redox)
+- [Let's Split](#lets-split)
+- [Minidox](#minidox)
+- [Ergotravel](#ergotravel)
+- [Helix](#helix)
+- [HeliDox](#helidox)
+- [Zen](#zen)
+- [Sol](#sol)
+- [Chimera Ergo](#chimera-ergo)
+- [Iris](#iris)
+- [Levinson](#levinson)
+- [Viterbi](#viterbi)
+- [Fourier 40](#fourier-40)
+- [Nyquist](#nyquist)
+- [BFO-9000](#bfo-9000)
+- [For Science](#for-science)
+- [Mitosis](#mitosis)
+- [Dactyl](#dactyl)
+- [Dactyl-ManuForm](#dactyl-manuform)
+- [Atreus](#atreus)
+- [Atreus62](#atreus62)
+- [Atreis](#atreis)
+- [Pteron](#pteron)
+- [CatBoard](#catboard)
+- [Gergo](#gergo)
+- [Keyboard.io Model01](#keyboardio-model01)
+- [SmartYao/Koolertron Keyboard](#smartyaokoolertron-keyboard)
+- [Mistel Barocco](#mistel-barocco)
+- [VE.A](#vea)
+- [Ultimate Hacking Keyboard](#ultimate-hacking-keyboard)
+- [X-Bows](#x-bows)
+- [Kinesis Advantage](#kinesis-advantage)
+- [Kinesis Freestyle Pro](#kinesis-freestyle-pro)
+- [Matias Ergo Pro](#matias-ergo-pro)
+- [Maltron](#maltron)
+- [Cherry ErgoPlus MX 5000 (G80-5000)](#cherry-ergoplus-mx-5000-g80-5000))
+- [Dygma Raise](#dygma-raise)
+- [DO IT YOURSELF](#do-it-yourself)
+  - [How To](#how-to)
+  - [Firmware](#firmware)
+  - [Keycaps](#keycaps)
+  - [Switches](#switches)
+  - [Switches tester](#switches-tester)
+- [Shopping](#shopping)
+- [Community](#community)
+  - [Forums](#forums)
+  - [Wiki](#wiki)
+  - [Chat](#chat)
+- [Ergonomics](#ergonomics)
+- [RSI](#rsi)
+- [More split keyboards](#more-split-keyboards)
+- [About](#about)
 
 ## Ergodox
 https://www.ergodox.io  
@@ -19,7 +73,7 @@ https://input.club/devices/infinity-ergodox/
 <img src="img/ErgoDox_Infinity.jpg" width="400px"/> <img src="img/ErgoDox_Infinity_PCB.jpg" width="400px"/>
 
 
-## ErgoDox EZ
+## Ergodox EZ
 https://ergodox-ez.com  
 [Tenting](https://GitHub.com/rothgar/ergodox-ez-tent-kit)  
 
@@ -82,7 +136,7 @@ https://legonut.gitbooks.io/zen-keyboard/content/
 https://legonut.gitbooks.io/zen-keyboard/content/flashing.html  
 https://GitHub.com/qmk/qmk_firmware/blob/master/keyboards/zen/readme.md  
 
-https://www.youtube.com/watch?v=1tDWJe_P5PQ
+https://www.YouTube.com/watch?v=1tDWJe_P5PQ
 
 <img src="img/Zen.jpg" width="400px"/> <img src="img/Zen_PCB.jpg" width="400px"/>
 	
@@ -190,7 +244,7 @@ https://www.reddit.com/r/MechanicalKeyboards/comments/9blobs/the_pteron/
 
 <img src="img/Pteron.jpg" width="400px"/>
 
-## CatBoard ][
+## CatBoard
 
 http://catboard.klava.org/  
 https://GitHub.com/ibnteo/catboard  
@@ -254,7 +308,7 @@ https://www.kinesis-ergo.com/shop/advantage2/
 <img src="img/KinesisAdvantage2.jpg" width="400px"/>
 
 
-## Kinesis Freestyle Pro.jpg
+## Kinesis Freestyle Pro
 https://www.kinesis-ergo.com/shop/freestyle-pro/
 
 <img src="img/KinesisFreestylePro.jpg" width="400px"/>
@@ -284,13 +338,15 @@ https://www.dygma.com/raise/
 
 
 ## DO IT YOURSELF
+
+### How To
 - https://GitHub.com/ruiqimao/keyboard-pcb-guide
 - A modern handwiring guide https://geekhack.org/index.php?topic=87689.0
 - https://wiki.geekhack.org/index.php?title=Hard-Wiring_How-To
 - Socketing http://www.40percent.club/p/socketing-pro-micro.html
 - Sockets http://www.40percent.club/2018/03/sockets.html
 - http://www.keyboard-layout-editor.com
-- http://builder.swillkb.com/ Plate & Case Builder keyboard top plate CAD files generator, for keyboard-layout-editor generated layouts
+- http://builder.swillkb.com/ - Plate & Case Builder keyboard top plate CAD files generator, for keyboard-layout-editor generated layouts.
 - https://pcbshopper.com
 - https://GitHub.com/adius/awesome-laser-cutting
 - https://lasergist.com/shop/lasergist/
@@ -301,18 +357,17 @@ https://www.dygma.com/raise/
 - Advanced Keyboard Design Tips https://docs.google.com/document/d/1dz-V2qqrpCKF-_q3qNr2MnFS6XejUw0JTC_35orYFSs/edit
 - 3d printing http://www.lexcent.com/
 
-## Firmware
+### Firmware
 - https://GitHub.com/qmk/qmk_firmware
 - https://GitHub.com/qmk/qmk_toolbox
 
-## Keycaps
+### Keycaps
 - https://deskthority.net/wiki/Keyboard_profile
 - https://pimpmykeyboard.com/key-cap-family-specs/
 
 <img src="img/SA_DCS_DSA.png"/> <img src="img/keycaps_profiles.jpeg" height="200px"/> <img src="img/keycaps_profiles.jpg" height="200px"/>
 
-
-## Switches
+### Switches
 - https://deskthority.net/wiki/Keyboard_terminology
 - https://deskthority.net/wiki/Switch_recognition
 - https://kbwiki.ai03.me/books/switch-choice/page/switch-descriptions
@@ -324,10 +379,9 @@ https://www.dygma.com/raise/
 <img src="img/switch diagram lol.jpg" width="200px"/>
 
 
-
 ### Switches tester
-+ KBDfans 63 switches with DSA keycaps [ebay](https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575419094&campid=5338362280&mpre=https%3A%2F%2Fwww.ebay.com%2Fitm%2FKBDfans-Mechanical-keyboard-Super-Swithes-Tester-63-switches-with-DSA-keycap%2F253530883073) [aliexpress](http://s.click.aliexpress.com/e/bkTLDYAc)  
-+ https://novelkeys.xyz/collections/switch-testers/products/25-slot-switch-tester
+- KBDfans 63 switches with DSA keycaps [ebay](https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575419094&campid=5338362280&mpre=https%3A%2F%2Fwww.ebay.com%2Fitm%2FKBDfans-Mechanical-keyboard-Super-Swithes-Tester-63-switches-with-DSA-keycap%2F253530883073) [aliexpress](http://s.click.aliexpress.com/e/bkTLDYAc)  
+- https://novelkeys.xyz/collections/switch-testers/products/25-slot-switch-tester
 
 <img src="img/switch_tester.jpg" width="200px"/> <img src="img/switch_tester2.jpg" width="200px"/> <img src="img/switches.jpg" width="200px"/>
 
@@ -351,18 +405,20 @@ https://www.dygma.com/raise/
 - https://mechbox.co.uk/
 
 ## Community
+
+### Forums
 - https://www.reddit.com/r/MechanicalKeyboards/
 - https://geekhack.org
 - https://deskthority.net
 - https://deskthority.net/wiki/Keyboard_communities
 
-## Wiki
+### Wiki
 - https://deskthority.net/wiki/
 - https://wiki.geekhack.org/index.php?title=GeekHackWiki
 - https://www.reddit.com/r/MechanicalKeyboards/wiki/index
 - https://GitHub.com/for2ch/keyboard/wiki
 
-## Chat
+### Chat
 - Discord: https://discord.gg/mechkeys
 - Discord: QMK https://discord.gg/YRqxYa
 - Discord: RGBKB https://discord.gg/uth6kE
@@ -415,7 +471,7 @@ https://www.dygma.com/raise/
 | Diverge TM 2              |                 | Assembled | Ortho            | Yes      | No       | http://unikeyboard.io/product/diverge-tm/                                                                               |
 | Divide                    | 2017/11/25      | Prototype | Ortho            | Yes      | No       | https://www.reddit.com/r/MechanicalKeyboards/comments/7fh7hw/low_profile_lets_split_the_divide/                         |
 | Dizygotic                 | 2017/11/09      | Prototype | Regular          | No       | No       | https://www.reddit.com/r/MechanicalKeyboards/comments/7bsdth/my_first_diy_custom_board/                                 |
-| Dygma Raise |                 | Assembled | Regular          | Yes      | No       | https://www.dygma.com/raise/                          |
+| Dygma Raise               |                 | Assembled | Regular          | Yes      | No       | https://www.dygma.com/raise/                                                                                            |
 | EM7                       | 2016/07/07      | Prototype | Regular          | No       | No       | https://geekhack.org/index.php?topic=83328.0                                                                            |
 | Ergo42                    | 2018/03/31      | Prototype | Ortho            | Yes      | No       | https://twitter.com/Biacco42/status/980275596927279104                                                                  |
 | Ergodone                  |                 | Kit       | Columnar Stagger | Yes      | No       | https://kbdfans.myshopify.com/products/ergodone-keyboard-pcb-1pcs-free-shipping                                         |
@@ -441,10 +497,10 @@ https://www.dygma.com/raise/
 | Keyboard.io Model01       |                 | Assembled | Columnar Stagger | Yes      | No       | https://shop.keyboard.io/                                                                                               |
 | Keymouse                  | 2018/05/01      | Assembled | Columnar Stagger | Yes      | Yes      | https://www.keymouse.com/                                                                                               |
 | Kinesis Advantage 2       |                 | Assembled | Scooped          | No       | No       | https://www.kinesis-ergo.com/shop/advantage2/                                                                           |
-| Kinesis Evolution         | 2001/01/10      | Assembled | Regular          | Yes      | No       | https://www.kinesis-ergo.com/about-us/press-releases/                                                                  |
+| Kinesis Evolution         | 2001/01/10      | Assembled | Regular          | Yes      | No       | https://www.kinesis-ergo.com/about-us/press-releases/                                                                   |
 | Kinesis Freestyle Edge    |                 | Assembled | Regular          | Yes      | No       | https://gaming.kinesis-ergo.com/fsedge/                                                                                 |
-| Kinesis Freestyle Pro     |                 | Assembled | Regular          | No       | No       | https://kinesis-ergo.com/keyboards/freestyle-pro-keyboard/                                                                  |
-| Koolerton Split Keyboard  |                 | Assembled | Regular          | No       | No       | https://www.amazon.com/Koolertron-Programmable-Mechanical-Keyboard-Ergonomic/dp/B076FQB6Q3                                |
+| Kinesis Freestyle Pro     |                 | Assembled | Regular          | No       | No       | https://kinesis-ergo.com/keyboards/freestyle-pro-keyboard/                                                              |
+| Koolerton Split Keyboard  |                 | Assembled | Regular          | No       | No       | https://www.amazon.com/Koolertron-Programmable-Mechanical-Keyboard-Ergonomic/dp/B076FQB6Q3                              |
 | Let's Burst               |                 | Prototype | Ortho            | Yes      | No       | https://www.reddit.com/r/MechanicalKeyboards/comments/7ctpxp/lets_burst_the_hand_wired_alien_inspired_lets/             |
 | Let's Split               |                 | Assembled | Ortho            | Yes      | No       | https://mehkee.com/products/lets-split-pcb?variant=46050392207                                                          |
 | Let's Split (Wireless)    | 2018/01/02      | Prototype | Ortho            | Yes      | Yes      | https://www.reddit.com/r/MechanicalKeyboards/comments/7nox6q/wireless_lets_split_build_log_with_both_mx_and             |
