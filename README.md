@@ -313,7 +313,7 @@ https://www.dygma.com/raise/
 ## Switches
 - https://deskthority.net/wiki/Keyboard_terminology
 - https://deskthority.net/wiki/Switch_recognition
-- https://kbwiki.ai03.me/books/switch-choice/page/switch-descriptions
+- https://wiki.ai03.me/books/switch-choice/page/switch-choice-flowchart
 - https://input.club/the-comparative-guide-to-mechanical-switches/
 - https://www.keyboardco.com/blog/index.php/2017/11/an-introduction-to-kailh-switches-including-speed-box/
 - https://deskthority.net/wiki/Zealio
