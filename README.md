@@ -97,7 +97,7 @@ https://github.com/GlenPickle/Chimera
 
 ## Iris
 
-https://www.candykeys.com/product/iris-pcb-white/  
+https://candykeys.com/product/iris-pcb-kit-v-3
 https://keeb.io/products/iris-keyboard-split-ergonomic-keyboard  
 https://github.com/qmk/qmk_firmware/tree/master/keyboards/iris  
 https://github.com/keebio/iris-case  
