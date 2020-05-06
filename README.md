@@ -353,12 +353,14 @@ https://www.dygma.com/raise/
 - [KBDfans](https://kbdfans.com)
 - [The Keyboard Company](https://keyboardco.com)
 - [KPrepublic](https://kprepublic.com)
+- [Little Keyboards](https://littlekeyboards.com)
 - [Mechanical Keyboards Inc](https://mechanicalkeyboards.com)
 - [Mechboards](https://mechboards.co.uk)
 - [Mechbox](https://mechbox.co.uk)
 - [mykeyboard.eu](https://mykeyboard.eu)
 - [NovelKeys](https://novelkeys.xyz)
 - [RGBKB](https://rgbkb.net)
+- [splitkb.com](https://splitkb.com)
 
 ### Keycaps
 - [Pimp My Keyboard (Signature Plastics)](https://pimpmykeyboard.com)
