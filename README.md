@@ -280,6 +280,10 @@ https://www.dygma.com/raise/
 
 <img src="img/Dygma-Raise-Mechanical-Split-Keyboard.jpg" width="400px"/> <img src="img/Dygma-Raise-Mechanical-Split-Keyboard_white.jpg" width="400px"/>
 
+## R-Go Split
+https://www.r-go-tools.com/products/ergonomic-keyboards/r-go-split/
+
+<img src="img/rgo_split.jpg" width="400px"/>
 
 ## DO IT YOURSELF
 - https://github.com/ruiqimao/keyboard-pcb-guide
