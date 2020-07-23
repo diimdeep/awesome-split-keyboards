@@ -327,6 +327,11 @@ https://github.com/kata0510/Lily58
 
 <img src="img/lily58_keyboard.jpg" width="400px"/>
 
+## R-Go Split
+https://www.r-go-tools.com/products/ergonomic-keyboards/r-go-split/
+
+<img src="img/rgo_split.jpg" width="400px"/>
+
 ## DO IT YOURSELF
 - https://github.com/ruiqimao/keyboard-pcb-guide
 - A modern handwiring guide https://geekhack.org/index.php?topic=87689.0
