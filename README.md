@@ -1,52 +1,66 @@
 # Awesome Split Keyboards [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## Ergodox
-https://www.ergodox.io  
+https://www.ergodox.io
 [Tenting](https://github.com/adereth/ergodox-tent)
 
 <img src="img/ErgoDox-original-min.png" width="400px"/>
 
 
 ## Ergodox infinity
-https://input.club/devices/infinity-ergodox/  
+https://input.club/devices/infinity-ergodox/
 
 <img src="img/ErgoDox_Infinity.jpg" width="400px"/> <img src="img/ErgoDox_Infinity_PCB.jpg" width="400px"/>
 
 
 ## ErgoDox EZ
-https://ergodox-ez.com  
-[Tenting](https://github.com/rothgar/ergodox-ez-tent-kit)  
+https://ergodox-ez.com
+[Tenting](https://github.com/rothgar/ergodox-ez-tent-kit)
 
 <img src="img/Ergodox_EZ.jpg" width="400px"/> <img src="img/Ergodox_EZ_white.jpg" width="400px"/>
 
 
 ## Ergodone
-https://kbdfans.cn/collections/pcb/products/ergodone-keyboard-pcb-1pcs-free-shipping  
-https://kbdfans.cn/products/ergodone-keyboard-pcb-1pcs-free-shipping  
-https://ru.aliexpress.com/store/product/ergodone-Custom-Mechanical-Keyboard-TKG-TOOLS-PCB-programmed-Ergonomic-Keyboard-Kit-similar-with-infinity-ergodox/3034003_32830050940.html  
+https://kbdfans.cn/collections/pcb/products/ergodone-keyboard-pcb-1pcs-free-shipping
+https://kbdfans.cn/products/ergodone-keyboard-pcb-1pcs-free-shipping
+https://ru.aliexpress.com/store/product/ergodone-Custom-Mechanical-Keyboard-TKG-TOOLS-PCB-programmed-Ergonomic-Keyboard-Kit-similar-with-infinity-ergodox/3034003_32830050940.html
 
 <img src="img/Ergodone.jpg" width="400px"/> <img src="img/Ergodone_PCB.jpg" width="400px"/>
 
+## Georgi
+https://www.gboards.ca/
+
+https://github.com/qmk/qmk_firmware/tree/master/keyboards/georgi
+
+<img src="img/Georgi.jpg" width="400px"/> <img src="img/Georgi2.jpg" width="400px"/>
+
+## Gergo
+https://www.gboards.ca/
+
+https://github.com/qmk/qmk_firmware/tree/master/keyboards/gergo
+
+<img src="img/Gergo.jpg" width="400px"/>  <img src="img/Gergo2.jpg" width="400px"/>
+
 ## Redox
-https://github.com/mattdibi/redox-keyboard  
-https://github.com/Lenbok/scad-redox-case  
+https://github.com/mattdibi/redox-keyboard
+https://github.com/Lenbok/scad-redox-case
 
 <img src="img/Redox.jpg" width="400px"/> <img src="img/Redox_PCB.jpg" width="400px"/>
 
 
 ## Let's Split
-https://github.com/nicinabox/lets-split-guide  
-https://www.maple-computing.com/collections/frontpage/products/lets-split-eh-leftovers  
-http://groupbuys.mechboards.co.uk/shop/lets-split-eh-pcbs/  
-https://mehkee.com/products/lets-split-pcb  
+https://github.com/nicinabox/lets-split-guide
+https://www.maple-computing.com/collections/frontpage/products/lets-split-eh-leftovers
+http://groupbuys.mechboards.co.uk/shop/lets-split-eh-pcbs/
+https://mehkee.com/products/lets-split-pcb
 
 <img src="img/LetsSplit.jpg" width="400px"/>
 
 
 ## Minidox
 
-https://github.com/That-Canadian/MiniDox_PCB  
-https://github.com/dotdash32/cases/tree/master/Minidox  
+https://github.com/That-Canadian/MiniDox_PCB
+https://github.com/dotdash32/cases/tree/master/Minidox
 
 <img src="img/MiniDox.jpg" width="400px"/>
 
@@ -58,8 +72,8 @@ https://github.com/jpconstantineau/ErgoTravel
 
 
 ## Helix
-https://github.com/MakotoKurauchi/helix  
-https://yushakobo.jp/shop/helix-keyboard-kit/  
+https://github.com/MakotoKurauchi/helix
+https://yushakobo.jp/shop/helix-keyboard-kit/
 
 <img src="img/Helix.jpg" width="400px"/>
 
@@ -71,19 +85,19 @@ https://github.com/foostan/crkbd/
 
 
 ## Zen
-https://www.rgbkb.net/products/zen-keyboard  
-https://mykeyboard.eu/catalogue/category/keyboard-kits/zen-keyboard_55/  
+https://www.rgbkb.net/products/zen-keyboard
+https://mykeyboard.eu/catalogue/category/keyboard-kits/zen-keyboard_55/
 
-https://legonut.gitbooks.io/zen-keyboard/content/  
-https://legonut.gitbooks.io/zen-keyboard/content/flashing.html  
-https://github.com/qmk/qmk_firmware/blob/master/keyboards/zen/readme.md  
+https://legonut.gitbooks.io/zen-keyboard/content/
+https://legonut.gitbooks.io/zen-keyboard/content/flashing.html
+https://github.com/qmk/qmk_firmware/blob/master/keyboards/zen/readme.md
 
 https://www.youtube.com/watch?v=1tDWJe_P5PQ
 
 <img src="img/Zen.jpg" width="400px"/> <img src="img/Zen_PCB.jpg" width="400px"/>
-	
+
 ## Sol
-https://www.rgbkb.net  
+https://www.rgbkb.net
 https://www.rgbkb.net/pages/announcing-sol-the-brightest-keyboard-on-earth
 
 <img src="img/Sol.jpg" width="400px"/>
@@ -97,27 +111,27 @@ https://github.com/GlenPickle/Chimera
 
 ## Iris
 
-https://www.candykeys.com/product/iris-pcb-white/  
-https://keeb.io/products/iris-keyboard-split-ergonomic-keyboard  
-https://github.com/qmk/qmk_firmware/tree/master/keyboards/iris  
-https://github.com/keebio/iris-case  
+https://www.candykeys.com/product/iris-pcb-white/
+https://keeb.io/products/iris-keyboard-split-ergonomic-keyboard
+https://github.com/qmk/qmk_firmware/tree/master/keyboards/iris
+https://github.com/keebio/iris-case
 
 <img src="img/Iris.jpg" width="400px"/>
 
 
 ## Levinson
 
-https://keeb.io/products/levinson-lets-split-w-led-backlight  
-https://keeb.io/products/levinson-keyboard-case-plates  
-https://github.com/qmk/qmk_firmware/blob/master/keyboards/levinson/readme.md  
+https://keeb.io/products/levinson-lets-split-w-led-backlight
+https://keeb.io/products/levinson-keyboard-case-plates
+https://github.com/qmk/qmk_firmware/blob/master/keyboards/levinson/readme.md
 
 <img src="img/Levinson.jpg" width="400px"/>
 
 
 ## Viterbi
 
-https://keeb.io/products/viterbi-keyboard-pcbs-5x7-70-split-ortholinear  
-https://github.com/qmk/qmk_firmware/blob/master/keyboards/viterbi/readme.md  
+https://keeb.io/products/viterbi-keyboard-pcbs-5x7-70-split-ortholinear
+https://github.com/qmk/qmk_firmware/blob/master/keyboards/viterbi/readme.md
 
 <img src="img/Viterbi.jpg" width="400px"/>
 
@@ -141,20 +155,20 @@ https://keeb.io/products/bfo-9000-keyboard-customizable-full-size-split-ortholin
 
 
 ## For Science
-https://github.com/peej/for-science-keyboard  
+https://github.com/peej/for-science-keyboard
 
 <img src="img/ForScience.jpg" width="400px"/> <img src="img/ForScience_PCB.png" width="400px"/>
 
 
 ## Mitosis
-https://github.com/reversebias/mitosis-hardware  
-https://github.com/reversebias/mitosis  
+https://github.com/reversebias/mitosis-hardware
+https://github.com/reversebias/mitosis
 
 <img src="img/Mitosis.jpg" width="400px"/>
 
 
 ## Dactyl
-https://github.com/adereth/dactyl-keyboard  
+https://github.com/adereth/dactyl-keyboard
 
 <img src="img/Dactyl.jpg" width="400px"/>
 
@@ -166,7 +180,7 @@ https://github.com/tshort/dactyl-keyboard
 
 
 ## Atreus
-https://github.com/technomancy/atreus  
+https://github.com/technomancy/atreus
 
 <img src="img/Atreus.jpg" width="400px"/>
 
@@ -177,33 +191,33 @@ https://github.com/profet23/atreus62/
 <img src="img/Atreus62.jpg" width="400px"/>
 
 ## Atreis
-https://github.com/dekonnection/atreis  
-https://www.reddit.com/r/MechanicalKeyboards/comments/8gt4cj/photos_the_atreis_an_unsplitted_iris/  
+https://github.com/dekonnection/atreis
+https://www.reddit.com/r/MechanicalKeyboards/comments/8gt4cj/photos_the_atreis_an_unsplitted_iris/
 
 <img src="img/Atreis.jpg" width="400px"/>
 
 ## Pteron
-https://github.com/FSund/pteron-keyboard  
-https://www.reddit.com/r/MechanicalKeyboards/comments/9blobs/the_pteron/  
+https://github.com/FSund/pteron-keyboard
+https://www.reddit.com/r/MechanicalKeyboards/comments/9blobs/the_pteron/
 
 <img src="img/Pteron.jpg" width="400px"/>
 
 ## CatBoard ][
 
-http://catboard.klava.org/  
-https://github.com/ibnteo/catboard  
-https://habr.com/post/185500/   
+http://catboard.klava.org/
+https://github.com/ibnteo/catboard
+https://habr.com/post/185500/
 
 <img src="img/catboard.jpg" width="400px"/> <img src="img/catboard_layout.png" width="400px"/>
 
 
 ## Gergo
 
-https://www.gboards.ca/  
-https://github.com/germ/qmk_firmware  
-https://www.reddit.com/r/MechanicalKeyboards/search?q=gergo&restrict_sr=on  
+https://www.gboards.ca/
+https://github.com/germ/qmk_firmware
+https://www.reddit.com/r/MechanicalKeyboards/search?q=gergo&restrict_sr=on
 
-<img src="img/Gergo.jpg" width="400px"/> 
+<img src="img/Gergo.jpg" width="400px"/>
 
 
 ## Keyboard.io Model01
@@ -213,9 +227,9 @@ https://shop.keyboard.io/
 
 
 ## SmartYao/Koolertron Keyboard
-https://www.amazon.co.uk/Koolertron-Programmable-Mechanical-Keyboard-Ergonomic/dp/B076FTNXDX  
-https://shop114100401.world.taobao.com  
-http://xahlee.info/kbd/ly092_mini_keyboard.html  
+https://www.amazon.co.uk/Koolertron-Programmable-Mechanical-Keyboard-Ergonomic/dp/B076FTNXDX
+https://shop114100401.world.taobao.com
+http://xahlee.info/kbd/ly092_mini_keyboard.html
 
 <img src="img/SmartYaoly092.jpg" width="400px"/>
 
@@ -228,8 +242,8 @@ http://www.mistelkeyboard.com/keyboards/
 
 
 ## VE.A
-https://www.massdrop.com/buy/ve-a  
-http://xahlee.info/kbd/VE.A_keyboard.html  
+https://www.massdrop.com/buy/ve-a
+http://xahlee.info/kbd/VE.A_keyboard.html
 
 <img src="img/VEA.jpg" width="400px"/>
 
@@ -246,7 +260,7 @@ http://www.x-bows.com/
 <img src="img/xbows.jpg" width="400px"/>
 
 
-## Kinesis Advantage 
+## Kinesis Advantage
 https://www.kinesis-ergo.com/shop/advantage2/
 
 <img src="img/KinesisAdvantage2.jpg" width="400px"/>
@@ -270,8 +284,8 @@ https://en.wikipedia.org/wiki/Maltron
 
 ## Cherry ErgoPlus MX 5000 (G80-5000)
 
-http://xahlee.info/kbd/Cherry_Ergoplus_keyboard.html  
-https://deskthority.net/photos-f62/cherry-mx5000-teardown-restoration-g80-5000-haade-t16661.html  
+http://xahlee.info/kbd/Cherry_Ergoplus_keyboard.html
+https://deskthority.net/photos-f62/cherry-mx5000-teardown-restoration-g80-5000-haade-t16661.html
 
 <img src="img/CherryErgoPlus.jpg" width="400px"/>
 
@@ -329,7 +343,7 @@ https://github.com/omkbd/ErgoDash
 
 
 ### Switches tester
-+ KBDfans 63 switches with DSA keycaps [ebay](https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575419094&campid=5338362280&mpre=https%3A%2F%2Fwww.ebay.com%2Fitm%2FKBDfans-Mechanical-keyboard-Super-Swithes-Tester-63-switches-with-DSA-keycap%2F253530883073) [aliexpress](http://s.click.aliexpress.com/e/bkTLDYAc)  
++ KBDfans 63 switches with DSA keycaps [ebay](https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575419094&campid=5338362280&mpre=https%3A%2F%2Fwww.ebay.com%2Fitm%2FKBDfans-Mechanical-keyboard-Super-Swithes-Tester-63-switches-with-DSA-keycap%2F253530883073) [aliexpress](http://s.click.aliexpress.com/e/bkTLDYAc)
 + https://novelkeys.xyz/collections/switch-testers/products/25-slot-switch-tester
 
 <img src="img/switch_tester.jpg" width="200px"/> <img src="img/switch_tester2.jpg" width="200px"/> <img src="img/switches.jpg" width="200px"/>
@@ -382,7 +396,7 @@ https://github.com/omkbd/ErgoDash
 
 ## RSI
 - http://web.eecs.umich.edu/~cscott/rsi.html
-- https://blog.evanweaver.com/2012/09/05/a-programmers-guide-to-healing-rsi/	
+- https://blog.evanweaver.com/2012/09/05/a-programmers-guide-to-healing-rsi/
 
 
 ## More split keyboards
