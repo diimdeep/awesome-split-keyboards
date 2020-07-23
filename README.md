@@ -1,5 +1,76 @@
 # Awesome Split Keyboards [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+## Contents
+- [Awesome Split Keyboards <a href="https://awesome.re" rel="nofollow"><img src="https://camo.githubusercontent.com/1997c7e760b163a61aba3a2c98f21be8c524be29/68747470733a2f2f617765736f6d652e72652f62616467652e737667" alt="Awesome" data-canonical-src="https://awesome.re/badge.svg" style="max-width:100\x;"></a>](#awesome-split-keyboards-)
+  - [Ergodox](#ergodox)
+  - [Ergodox infinity](#ergodox-infinity)
+  - [ErgoDox EZ](#ergodox-ez)
+  - [Ergodone](#ergodone)
+  - [Georgi](#georgi)
+  - [Gergo](#gergo)
+  - [Redox](#redox)
+  - [Let's Split](#lets-split)
+  - [Minidox](#minidox)
+  - [Ergotravel](#ergotravel)
+  - [Helix](#helix)
+  - [HeliDox](#helidox)
+  - [Zen](#zen)
+  - [Sol](#sol)
+  - [Chimera Ergo](#chimera-ergo)
+  - [Kyria](#kyria)
+  - [Iris](#iris)
+  - [Fortitude60](#fortitude60)
+  - [Levinson](#levinson)
+  - [Viterbi](#viterbi)
+  - [Fourier 40](#fourier-40)
+  - [Nyquist](#nyquist)
+  - [BFO-9000](#bfo-9000)
+  - [For Science](#for-science)
+  - [Mitosis](#mitosis)
+  - [Dactyl](#dactyl)
+  - [Dactyl-ManuForm](#dactyl-manuform)
+  - [Atreus](#atreus)
+  - [Atreus62](#atreus62)
+  - [Atreis](#atreis)
+  - [Pteron](#pteron)
+  - [CatBoard ][](#catboard-)
+  - [Gergo](#gergo-1)
+  - [Keyboard.io Model01](#keyboardio-model01)
+  - [SmartYao/Koolertron Keyboard](#smartyaokoolertron-keyboard)
+  - [Mistel Barocco](#mistel-barocco)
+  - [VE.A](#vea)
+  - [Ultimate Hacking Keyboard](#ultimate-hacking-keyboard)
+  - [X-Bows](#x-bows)
+  - [Kinesis Advantage](#kinesis-advantage)
+  - [Kinesis Freestyle Pro](#kinesis-freestyle-pro)
+  - [Matias Ergo Pro](#matias-ergo-pro)
+  - [Maltron](#maltron)
+  - [Cherry ErgoPlus MX 5000 (G80-5000)](#cherry-ergoplus-mx-5000-g80-5000)
+  - [Dygma Raise](#dygma-raise)
+  - [ErgoDash](#ergodash)
+  - [Dumang DK6](#dumang-dk6)
+  - [Lily58](#lily58)
+  - [R-Go Split](#r-go-split)
+  - [DO IT YOURSELF](#do-it-yourself)
+    - [How to](#how-to)
+    - [Firmware](#firmware)
+    - [Keycaps](#keycaps)
+    - [Switches](#switches)
+    - [Switches tester](#switches-tester)
+  - [Shopping](#shopping)
+  - [Community](#community)
+    - [Forums](#forums)
+    - [Wiki](#wiki)
+    - [Chat](#chat)
+  - [Ergonomics](#ergonomics)
+  - [RSI](#rsi)
+  - [More split keyboards](#more-split-keyboards)
+  - [About](#about)
+    - [Contributing](#contributing)
+    - [License](#license)
+    - [About this fork](#about-this-fork)
+
+
 ## Ergodox
 https://www.ergodox.io
 [Tenting](https://github.com/adereth/ergodox-tent)
@@ -282,7 +353,7 @@ https://www.kinesis-ergo.com/shop/advantage2/
 <img src="img/KinesisAdvantage2.jpg" width="400px"/>
 
 
-## Kinesis Freestyle Pro.jpg
+## Kinesis Freestyle Pro
 https://www.kinesis-ergo.com/shop/freestyle-pro/
 
 <img src="img/KinesisFreestylePro.jpg" width="400px"/>
@@ -333,6 +404,8 @@ https://www.r-go-tools.com/products/ergonomic-keyboards/r-go-split/
 <img src="img/rgo_split.jpg" width="400px"/>
 
 ## DO IT YOURSELF
+
+### How to
 - https://github.com/ruiqimao/keyboard-pcb-guide
 - A modern handwiring guide https://geekhack.org/index.php?topic=87689.0
 - https://wiki.geekhack.org/index.php?title=Hard-Wiring_How-To
@@ -351,18 +424,17 @@ https://www.r-go-tools.com/products/ergonomic-keyboards/r-go-split/
 - 3d printing http://www.lexcent.com/
 - PCB Designer Guide by ai03 https://kbwiki.ai03.me/books/pcb-design/chapter/pcb-designer-guide
 
-## Firmware
+### Firmware
 - https://github.com/qmk/qmk_firmware
 - https://github.com/qmk/qmk_toolbox
 
-## Keycaps
+### Keycaps
 - https://deskthority.net/wiki/Keyboard_profile
 - https://pimpmykeyboard.com/key-cap-family-specs/
 
 <img src="img/SA_DCS_DSA.png"/> <img src="img/keycaps_profiles.jpeg" height="200px"/> <img src="img/keycaps_profiles.jpg" height="200px"/>
 
-
-## Switches
+### Switches
 - https://deskthority.net/wiki/Keyboard_terminology
 - https://deskthority.net/wiki/Switch_recognition
 - https://wiki.ai03.me/books/switch-choice/page/switch-choice-flowchart
@@ -373,11 +445,9 @@ https://www.r-go-tools.com/products/ergonomic-keyboards/r-go-split/
 
 <img src="img/switch diagram lol.jpg" width="200px"/>
 
-
-
 ### Switches tester
-+ KBDfans 63 switches with DSA keycaps [ebay](https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575419094&campid=5338362280&mpre=https%3A%2F%2Fwww.ebay.com%2Fitm%2FKBDfans-Mechanical-keyboard-Super-Swithes-Tester-63-switches-with-DSA-keycap%2F253530883073) [aliexpress](http://s.click.aliexpress.com/e/bkTLDYAc)
-+ https://novelkeys.xyz/collections/switch-testers/products/25-slot-switch-tester
+- KBDfans 63 switches with DSA keycaps [ebay](https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575419094&campid=5338362280&mpre=https%3A%2F%2Fwww.ebay.com%2Fitm%2FKBDfans-Mechanical-keyboard-Super-Swithes-Tester-63-switches-with-DSA-keycap%2F253530883073) [aliexpress](http://s.click.aliexpress.com/e/bkTLDYAc)
+- https://novelkeys.xyz/collections/switch-testers/products/25-slot-switch-tester
 
 <img src="img/switch_tester.jpg" width="200px"/> <img src="img/switch_tester2.jpg" width="200px"/> <img src="img/switches.jpg" width="200px"/>
 
@@ -401,18 +471,20 @@ https://www.r-go-tools.com/products/ergonomic-keyboards/r-go-split/
 - https://mechbox.co.uk/
 
 ## Community
+
+### Forums
 - https://www.reddit.com/r/MechanicalKeyboards/
 - https://geekhack.org
 - https://deskthority.net
 - https://deskthority.net/wiki/Keyboard_communities
 
-## Wiki
+### Wiki
 - https://deskthority.net/wiki/
 - https://wiki.geekhack.org/index.php?title=GeekHackWiki
 - https://www.reddit.com/r/MechanicalKeyboards/wiki/index
 - https://github.com/for2ch/keyboard/wiki
 
-## Chat
+### Chat
 - Discord: https://discord.gg/mechkeys
 - Discord: QMK https://discord.gg/YRqxYa
 - Discord: RGBKB https://discord.gg/uth6kE
