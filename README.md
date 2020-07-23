@@ -381,6 +381,7 @@ https://www.dygma.com/raise/
 
 <img src="img/Dygma-Raise-Mechanical-Split-Keyboard.jpg" width="400px"/> <img src="img/Dygma-Raise-Mechanical-Split-Keyboard_white.jpg" width="400px"/>
 
+<<<<<<< HEAD
 ## ErgoDash
 https://github.com/omkbd/ErgoDash
 
@@ -403,7 +404,7 @@ https://www.r-go-tools.com/products/ergonomic-keyboards/r-go-split/
 
 <img src="img/rgo_split.jpg" width="400px"/>
 
-## DO IT YOURSELF
+## BUILD YOUR OWN KEYBOARD
 
 - [Tool for comparing split keyboard layouts](https://jhelvy.shinyapps.io/splitkbcompare/)
 - https://github.com/ruiqimao/keyboard-pcb-guide
@@ -423,18 +424,61 @@ https://www.r-go-tools.com/products/ergonomic-keyboards/r-go-split/
 - Advanced Keyboard Design Tips https://docs.google.com/document/d/1dz-V2qqrpCKF-_q3qNr2MnFS6XejUw0JTC_35orYFSs/edit
 - 3d printing http://www.lexcent.com/
 - PCB Designer Guide by ai03 https://kbwiki.ai03.me/books/pcb-design/chapter/pcb-designer-guide
+- [Keyboard Design Wiki](https://wiki.ai03.me)
+- [Keyboard Layout Editor](http://keyboard-layout-editor.com)
+
+### Plates & Cases
+- [ai03 Plate Generator](https://kbplate.ai03.me)
+- [Plate & Case Builder](http://builder.swillkb.com)
+  - Keyboard top plate CAD files generator, for keyboard-layout-editor generated layouts
+
+#### Laser Cutting
+- [Awesome Laser Cutting](https://github.com/ad-si/awesome-laser-cutting)
+- [lasergist](https://lasergist.com)
+  - Laser-cut stainless steel
+- [Ponoko](https://ponoko.com)
+
+#### 3D Printing
+- [Sculpteo](https://sculpteo.com)
+- [Lexcent](http://lexcent.com)
+
+### Electronics
+- [Awesome Electronics](https://github.com/kitspace/awesome-electronics)
+- [Keyboard PCB Guide](https://github.com/ruiqimao/keyboard-pcb-guide)
+- [A modern handwiring guide](https://geekhack.org/index.php?topic=87689.0)
+- [Hard-Wiring How-To](https://wiki.geekhack.org/index.php?title=Hard-Wiring_How-To)
+- [Socketing a Pro Micro](http://www.40percent.club/p/socketing-pro-micro.html)
+  - [Sockets](http://www.40percent.club/2018/03/sockets.html)
+- [KiCad footprint library](https://github.com/daprice/keyswitches.pretty)
+
+#### PCBs
+- [PCBShopper](https://pcbshopper.com)
+  - Compare PCB prices from various manufacturers
+- [Getting PCBs](https://github.com/nicinabox/lets-split-guide/blob/master/getting-pcbs.md)
 
 ### Firmware
-- https://github.com/qmk/qmk_firmware
-- https://github.com/qmk/qmk_toolbox
+- [QMK](qmk.fm)
+  - [QMK Firmware](https://github.com/qmk/qmk_firmware)
+  - [QMK Toolbox](https://github.com/qmk/qmk_toolbox)
+- [VIA](https://caniusevia.com)
+
+## Keyboard Information
+- [Keyboard Terminology](https://deskthority.net/wiki/Keyboard_terminology)
 
 ### Keycaps
-- https://deskthority.net/wiki/Keyboard_profile
-- https://pimpmykeyboard.com/key-cap-family-specs/
+- [Keyboard Profile](https://deskthority.net/wiki/Keyboard_profile)
+- [Signature Plastics Keycap Families](https://pimpmykeyboard.com/key-cap-family-specs)
 
 <img src="img/SA_DCS_DSA.png"/> <img src="img/keycaps_profiles.jpeg" height="200px"/> <img src="img/keycaps_profiles.jpg" height="200px"/>
 
 ### Switches
+- [Switch Recognition](https://deskthority.net/wiki/Switch_recognition)
+- [Switches: The Enthusiast Guide](https://wiki.ai03.me/books/general-info-for-newcomers/page/switches-the-enthusiast-guide)
+- [The Comparative Guide to Mechanical Switches](https://input.club/the-comparative-guide-to-mechanical-switches)
+- [An introduction to Kailh switches](https://www.keyboardco.com/blog/index.php/2017/11/an-introduction-to-kailh-switches-including-speed-box)
+- [Zealio switches](https://deskthority.net/wiki/Zealio)
+- [Mechanical switches #2](https://geekboards.ru/page/mechanical_switches_v2)
+  - [Translated RU -> EN](https://translate.google.com/translate?hl=&sl=ru&tl=en&u=https%3A%2F%2Fgeekboards.ru%2Fpage%2Fmechanical_switches_v2)
 - https://deskthority.net/wiki/Keyboard_terminology
 - https://deskthority.net/wiki/Switch_recognition
 - https://wiki.ai03.me/books/switch-choice/page/switch-choice-flowchart
@@ -445,63 +489,75 @@ https://www.r-go-tools.com/products/ergonomic-keyboards/r-go-split/
 
 <img src="img/switch diagram lol.jpg" width="200px"/>
 
-### Switches tester
+### Switch Testers
+- [KBDfans](https://kbdfans.com/collections/switches-tester)
+- [NovelKeys](https://novelkeys.xyz/collections/switch-testers)
 - KBDfans 63 switches with DSA keycaps [ebay](https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575419094&campid=5338362280&mpre=https%3A%2F%2Fwww.ebay.com%2Fitm%2FKBDfans-Mechanical-keyboard-Super-Swithes-Tester-63-switches-with-DSA-keycap%2F253530883073) [aliexpress](http://s.click.aliexpress.com/e/bkTLDYAc)
 - https://novelkeys.xyz/collections/switch-testers/products/25-slot-switch-tester
 
 <img src="img/switch_tester.jpg" width="200px"/> <img src="img/switch_tester2.jpg" width="200px"/> <img src="img/switches.jpg" width="200px"/>
 
 ## Shopping
-- https://kprepublic.com
-- https://kbdfans.cn
-- https://novelkeys.xyz
-- https://www.candykeys.com
-- https://www.1upkeyboards.com
-- https://falba.tech
-- https://mechanicalkeyboards.com
-- https://mykeyboard.eu
-- https://mechboards.co.uk
-- https://keyboardco.com
-- https://pimpmykeyboard.com
-- http://xkeys.com/accessories/Keycaps.php
-- Cables https://clarkkable.com
-- https://zapcables.com/
-- https://www.coolcable.co.uk/
-- https://www.winnja.com/
-- https://mechbox.co.uk/
+- [1upkeyboards](https://1upkeyboards.com)
+- [CandyKeys](https://candykeys.com)
+- [FalbaTech](https://falba.tech)
+- [Input Club](https://input.club)
+- [KBDfans](https://kbdfans.com)
+- [The Keyboard Company](https://keyboardco.com)
+- [KPrepublic](https://kprepublic.com)
+- [Little Keyboards](https://littlekeyboards.com)
+- [Mechanical Keyboards Inc](https://mechanicalkeyboards.com)
+- [Mechboards](https://mechboards.co.uk)
+- [Mechbox](https://mechbox.co.uk)
+- [mykeyboard.eu](https://mykeyboard.eu)
+- [NovelKeys](https://novelkeys.xyz)
+- [RGBKB](https://rgbkb.net)
+- [splitkb.com](https://splitkb.com)
+
+### Keycaps
+- [Pimp My Keyboard (Signature Plastics)](https://pimpmykeyboard.com)
+- [X-keys keycaps](https://xkeys.com/xkeys/accessories/keys/keycaps.html)
+
+### Cables
+- [Clark Kable](https://clarkkable.com)
+- [Cool Cable](https://coolcable.co.uk)
+- [Winnja](https://winnja.com)
+- [Zap Cables](https://zapcables.com)
 
 ## Community
 
 ### Forums
-- https://www.reddit.com/r/MechanicalKeyboards/
-- https://geekhack.org
-- https://deskthority.net
-- https://deskthority.net/wiki/Keyboard_communities
+- [Keyboard communities](https://deskthority.net/wiki/Keyboard_communities)
+- [Deskthority](https://deskthority.net)
+- [GeekHack](https://geekhack.org)
+- [Mechanical Keyboards Subreddit](https://www.reddit.com/r/MechanicalKeyboards)
 
 ### Wiki
-- https://deskthority.net/wiki/
-- https://wiki.geekhack.org/index.php?title=GeekHackWiki
-- https://www.reddit.com/r/MechanicalKeyboards/wiki/index
-- https://github.com/for2ch/keyboard/wiki
+- [Deskthority Wiki](https://deskthority.net/wiki)
+- [GeekHack Wiki](https://wiki.geekhack.org)
+- [Subreddit Wiki](https://www.reddit.com/r/MechanicalKeyboards/wiki/index)
+- [ai03 Wiki](https://wiki.ai03.me)
+- [for2ch Wiki (RU)](https://github.com/for2ch/keyboard/wiki)
 
 ### Chat
-- Discord: https://discord.gg/mechkeys
+- [Deskthority Discord](https://discord.gg/ddjx7WS)
+- [MechKeys Discord](https://discord.gg/mechkeys)
 - Discord: QMK https://discord.gg/YRqxYa
 - Discord: RGBKB https://discord.gg/uth6kE
+- [GeekHack IRC: #geekhack @ freenode](https://webchat.freenode.net/#geekhack)
+- /r/mechanicalkeyboards' IRC channel: #mechboards @ freenode (web client)
 - IRC: #deskthority @ Freenode (web client) - Deskthority's IRC channel
-- IRC: #geekhack @ Freenode (web client) - Geekhack's's IRC channel
 - IRC: #mechboards @ Freenode (web client) - /r/mechanicalkeyboards' IRC channel
 
-
 ## Ergonomics
-- https://pavelfatin.com/typing-with-pleasure/
-- http://xahlee.info/kbd/keyboard_problems.html
-- fixing the ergodox thumb section https://geekhack.org/index.php?topic=62848.150
-- http://www.ergopedia.ca/ergonomic_concepts/Mechanical_Keyswitches_Membrane_Keyswitches_and_Scissor_Switch_Membrane_Keyswitches_Ergonomic_Considerations.html
+- [Typing with pleasure](https://pavelfatin.com/typing-with-pleasure)
+- [Computer Keyboard Design Flaws](http://xahlee.info/kbd/keyboard_problems.html)
+- [Fixing the ergodox thumb section](https://geekhack.org/index.php?topic=62848.150)
+- [Ergonomic Considerations of Keyswitch Type](http://www.ergopedia.ca/ergonomic_concepts/Mechanical_Keyswitches_Membrane_Keyswitches_and_Scissor_Switch_Membrane_Keyswitches_Ergonomic_Considerations.html)
 
-## RSI
-- http://web.eecs.umich.edu/~cscott/rsi.html
-- https://blog.evanweaver.com/2012/09/05/a-programmers-guide-to-healing-rsi/
+### RSI
+- [Repetitive Strain Injury](http://web.eecs.umich.edu/~cscott/rsi.html)
+- [A programmer’s guide to healing RSI](https://blog.evanweaver.com/2012/09/05/a-programmers-guide-to-healing-rsi)
 
 
 ## More split keyboards
