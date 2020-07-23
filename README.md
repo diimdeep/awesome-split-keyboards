@@ -405,7 +405,7 @@ https://www.r-go-tools.com/products/ergonomic-keyboards/r-go-split/
 
 ## DO IT YOURSELF
 
-### How to
+- [Tool for comparing split keyboard layouts](https://jhelvy.shinyapps.io/splitkbcompare/)
 - https://github.com/ruiqimao/keyboard-pcb-guide
 - A modern handwiring guide https://geekhack.org/index.php?topic=87689.0
 - https://wiki.geekhack.org/index.php?title=Hard-Wiring_How-To
