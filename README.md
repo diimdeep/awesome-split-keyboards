@@ -558,3 +558,8 @@ Contributions welcome!
 
 ### License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+### About this fork
+It was created to help reduce inactivity on this list, and to make it a great living document!
+
+I used https://stackoverflow.com/a/57316640/377456 to copy over all the PRs from the original repo, and merged them manually.
