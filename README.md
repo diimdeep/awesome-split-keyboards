@@ -109,6 +109,14 @@ https://github.com/GlenPickle/Chimera
 <img src="img/Chimera.jpg" width="400px"/>
 
 
+## Kyria
+https://splitkb.com/products/kyria-kit-rev1-0
+https://splitkb.com/products/kyria-custom-build
+https://github.com/splitkb/kyria
+
+<img src="img/Kyria.jpg" width="400px"/>
+
+
 ## Iris
 
 https://candykeys.com/product/iris-pcb-kit-v-3
