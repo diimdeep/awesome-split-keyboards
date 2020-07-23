@@ -121,7 +121,7 @@ https://github.com/keebio/iris-case
 
 ## Fortitude60
 
-https://github.com/Pekaso/fortitude60  
+https://github.com/Pekaso/fortitude60
 https://yushakobo.jp/shop/fortitude60
 
 <img src="img/Fortitude60-otakublack.jpeg" width="400px"/> <img src="img/Fortitude60-ikiriwhite.jpg" width="400px"/>
@@ -307,6 +307,11 @@ https://github.com/omkbd/ErgoDash
 
 <img src="img/Ergodash.jpg" width="400px"/>
 
+## Dumang DK6
+http://www.beyondq.com/
+
+<img src="img/Dumang-DK6-1.png" width="400px" />
+<img src="img/Dumang-DK6-2.jpg" width="400px" />
 
 ## DO IT YOURSELF
 - https://github.com/ruiqimao/keyboard-pcb-guide
@@ -441,6 +446,7 @@ https://github.com/omkbd/ErgoDash
 | Diverge TM 2              |                 | Assembled | Ortho            | Yes      | No       | http://unikeyboard.io/product/diverge-tm/                                                                               |
 | Divide                    | 2017/11/25      | Prototype | Ortho            | Yes      | No       | https://www.reddit.com/r/MechanicalKeyboards/comments/7fh7hw/low_profile_lets_split_the_divide/                         |
 | Dizygotic                 | 2017/11/09      | Prototype | Regular          | No       | No       | https://www.reddit.com/r/MechanicalKeyboards/comments/7bsdth/my_first_diy_custom_board/                                 |
+| Dumang DK6                |                 | Assembled | Modular          | Yes      | No       | https://www.beyondq.com/     |
 | Dygma Raise |                 | Assembled | Regular          | Yes      | No       | https://www.dygma.com/raise/                          |
 | EM7                       | 2016/07/07      | Prototype | Regular          | No       | No       | https://geekhack.org/index.php?topic=83328.0                                                                            |
 | Ergo42                    | 2018/03/31      | Prototype | Ortho            | Yes      | No       | https://twitter.com/Biacco42/status/980275596927279104                                                                  |
