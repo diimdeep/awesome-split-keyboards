@@ -98,7 +98,7 @@ https://www.youtube.com/watch?v=1tDWJe_P5PQ
 
 ## Sol
 https://www.rgbkb.net
-https://www.rgbkb.net/pages/announcing-sol-the-brightest-keyboard-on-earth
+https://www.rgbkb.net/collections/sol-2
 
 <img src="img/Sol.jpg" width="400px"/>
 
