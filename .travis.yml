@@ -1,0 +1,13 @@
+---
+language: ruby
+sudo: required
+rvm:
+  - 2.4.1
+
+install:
+  - sudo apt update --yes
+  - sudo apt install ca-certificates
+  - gem install awesome_bot
+
+script:
+  - awesome_bot README.md --allow-redirect --white-list "kbwiki.ai03.me"
