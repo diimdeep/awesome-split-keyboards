@@ -55,6 +55,7 @@
   - [Sofle](#sofle)
   - [Pinky](#pinky)
   - [Colosseum](#colosseum)
+  - [Ergoinu](#ergoinu)
   - [DO IT YOURSELF](#do-it-yourself)
     - [How to](#how-to)
     - [Firmware](#firmware)
@@ -434,6 +435,12 @@ https://github.com/swanmatch/MxLEDBitPCB
 
 <img src="img/colosseum60.jpg" width="400px"/>
 <img src="img/colosseum44.jpg" width="400px"/>
+
+## Ergoinu
+
+https://github.com/hsgw/ergoinu
+
+<img src="img/ergoinu.jpg" width="400px"/>
 
 ## BUILD YOUR OWN KEYBOARD
 
