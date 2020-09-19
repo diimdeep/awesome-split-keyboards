@@ -51,6 +51,8 @@
   - [Dumang DK6](#dumang-dk6)
   - [Lily58](#lily58)
   - [R-Go Split](#r-go-split)
+  - [Moonlander](#moonlander)
+  - [Sofle](#sofle)
   - [DO IT YOURSELF](#do-it-yourself)
     - [How to](#how-to)
     - [Firmware](#firmware)
@@ -407,6 +409,11 @@ https://www.r-go-tools.com/products/ergonomic-keyboards/r-go-split/
 https://www.zsa.io/moonlander/
 
 <img src="img/Moonlander1.jpg" width="400px"/>
+
+## Sofle
+https://josefadamcik.github.io/SofleKeyboard/
+
+<img src="img/sofle_keyboard.jpg" width="400px"/>
 
 ## BUILD YOUR OWN KEYBOARD
 
