@@ -33,7 +33,7 @@
   - [Atreus62](#atreus62)
   - [Atreis](#atreis)
   - [Pteron](#pteron)
-  - [CatBoard ][](#catboard-)
+  - [CatBoard \]\[](#catboard-)
   - [Gergo](#gergo-1)
   - [Keyboard.io Model01](#keyboardio-model01)
   - [SmartYao/Koolertron Keyboard](#smartyaokoolertron-keyboard)
