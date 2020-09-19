@@ -53,6 +53,7 @@
   - [R-Go Split](#r-go-split)
   - [Moonlander](#moonlander)
   - [Sofle](#sofle)
+  - [Pinky](#pinky)
   - [DO IT YOURSELF](#do-it-yourself)
     - [How to](#how-to)
     - [Firmware](#firmware)
@@ -414,6 +415,15 @@ https://www.zsa.io/moonlander/
 https://josefadamcik.github.io/SofleKeyboard/
 
 <img src="img/sofle_keyboard.jpg" width="400px"/>
+
+## Pinky
+https://github.com/tamanishi/Pinky4
+
+<img src="img/pinky4.jpg" width="400px"/>
+
+https://github.com/tamanishi/Pinky3
+
+<img src="img/pinky3.jpg" width="400px"/>
 
 ## BUILD YOUR OWN KEYBOARD
 
