@@ -33,7 +33,7 @@
   - [Atreus62](#atreus62)
   - [Atreis](#atreis)
   - [Pteron](#pteron)
-  - [CatBoard ][](#catboard-)
+  - [CatBoard](#catboard-)
   - [Gergo](#gergo-1)
   - [Keyboard.io Model01](#keyboardio-model01)
   - [SmartYao/Koolertron Keyboard](#smartyaokoolertron-keyboard)
@@ -51,6 +51,11 @@
   - [Dumang DK6](#dumang-dk6)
   - [Lily58](#lily58)
   - [R-Go Split](#r-go-split)
+  - [Moonlander](#moonlander)
+  - [Sofle](#sofle)
+  - [Pinky](#pinky)
+  - [Colosseum](#colosseum)
+  - [Ergoinu](#ergoinu)
   - [DO IT YOURSELF](#do-it-yourself)
     - [How to](#how-to)
     - [Firmware](#firmware)
@@ -407,6 +412,35 @@ https://www.r-go-tools.com/products/ergonomic-keyboards/r-go-split/
 https://www.zsa.io/moonlander/
 
 <img src="img/Moonlander1.jpg" width="400px"/>
+
+## Sofle
+https://josefadamcik.github.io/SofleKeyboard/
+
+<img src="img/sofle_keyboard.jpg" width="400px"/>
+
+## Pinky
+https://github.com/tamanishi/Pinky4
+
+<img src="img/pinky4.jpg" width="400px"/>
+
+https://github.com/tamanishi/Pinky3
+
+<img src="img/pinky3.jpg" width="400px"/>
+
+## Colosseum
+
+https://github.com/swanmatch/colosseum60
+
+https://github.com/swanmatch/MxLEDBitPCB
+
+<img src="img/colosseum60.jpg" width="400px"/>
+<img src="img/colosseum44.jpg" width="400px"/>
+
+## Ergoinu
+
+https://github.com/hsgw/ergoinu
+
+<img src="img/ergoinu.jpg" width="400px"/>
 
 ## BUILD YOUR OWN KEYBOARD
 
