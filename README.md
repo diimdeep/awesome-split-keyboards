@@ -3,6 +3,7 @@
 ## Contents
 - [Awesome Split Keyboards <a href="https://awesome.re" rel="nofollow"><img src="https://camo.githubusercontent.com/1997c7e760b163a61aba3a2c98f21be8c524be29/68747470733a2f2f617765736f6d652e72652f62616467652e737667" alt="Awesome" data-canonical-src="https://awesome.re/badge.svg" style="max-width:100\x;"></a>](#awesome-split-keyboards-)
   - [Ergodox](#ergodox)
+  - [Quefrency Rev 2.](#quefrency)
   - [Ergodox infinity](#ergodox-infinity)
   - [ErgoDox EZ](#ergodox-ez)
   - [Ergodone](#ergodone)
@@ -109,6 +110,13 @@ https://www.gboards.ca/
 https://github.com/qmk/qmk_firmware/tree/master/keyboards/georgi
 
 <img src="img/Georgi.jpg" width="400px"/> <img src="img/Georgi2.jpg" width="400px"/>
+
+## Quefrency
+
+https://keeb.io/collections/split-keyboard-parts/products/quefrency-rev-2-60-65-split-staggered-keyboard
+
+<img src="img/quefrency.jpg" width="400px"/>
+
 
 ## Gergo
 https://www.gboards.ca/
