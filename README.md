@@ -128,7 +128,7 @@ https://github.com/Lenbok/scad-redox-case
 https://github.com/nicinabox/lets-split-guide
 https://www.maple-computing.com/collections/frontpage/products/lets-split-eh-leftovers
 http://groupbuys.mechboards.co.uk/shop/lets-split-eh-pcbs/
-https://mehkee.com/products/lets-split-pcb
+https://meh+.com/products/lets-split-pcb
 
 <img src="img/LetsSplit.jpg" width="400px"/>
 
@@ -551,6 +551,9 @@ https://github.com/hsgw/ergoinu
 - [NovelKeys](https://novelkeys.xyz)
 - [RGBKB](https://rgbkb.net)
 - [splitkb.com](https://splitkb.com)
+- [Keycäpsss](https://keycapsss.com)
+- [Oh, Keycaps!](https://ohkeycaps.com)
+- [Keyhive](https://keyhive.xyz)
 
 ### Keycaps
 - [Pimp My Keyboard (Signature Plastics)](https://pimpmykeyboard.com)
