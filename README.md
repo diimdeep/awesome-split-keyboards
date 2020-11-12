@@ -445,7 +445,9 @@ https://github.com/hsgw/ergoinu
 
 ## Zergotech-Freedom
 
+https://www.ergonomicessentials.com.au/product/zergotech-freedom-keyboard/
 
+<img src="img/Zergotech_Freedom.jpg" width="400px"/>
 
 ## BUILD YOUR OWN KEYBOARD
 
