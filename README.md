@@ -32,6 +32,7 @@
   - [Atreis](#atreis)
   - [Pteron](#pteron)
   - [CatBoard](#catboard-)
+  - [Arke](#arke)
   - [Keyboard.io Model01](#keyboardio-model01)
   - [SmartYao/Koolertron Keyboard](#smartyaokoolertron-keyboard)
   - [Mistel Barocco](#mistel-barocco)
@@ -304,6 +305,12 @@ https://github.com/ibnteo/catboard
 https://habr.com/post/185500/
 
 <img src="img/catboard.jpg" width="400px"/> <img src="img/catboard_layout.png" width="400px"/>
+
+## Arke
+
+[thingiverse](https://www.thingiverse.com/thing:2879329)
+
+<img src="img/Arke.jpg" width="400px"/>
 
 
 ## Keyboard.io Model01
