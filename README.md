@@ -27,6 +27,7 @@
   - [Mitosis](#mitosis)
   - [Dactyl](#dactyl)
   - [Dactyl-ManuForm](#dactyl-manuform)
+  - [Dactyl-ManuForm-Mini](#dactyl-manuform-mini)
   - [Atreus](#atreus)
   - [Atreus62](#atreus62)
   - [Atreis](#atreis)
@@ -273,6 +274,12 @@ https://github.com/adereth/dactyl-keyboard
 https://github.com/tshort/dactyl-keyboard
 
 <img src="img/Dactyl-ManuForm.jpg" width="400px"/>
+
+
+## Dactyl-ManuForm-Mini
+https://github.com/bstiq/dactyl-manuform-mini-keyboard
+
+<img src="img/Dactyl-ManuForm-Mini.jpg" width="400px"/>
 
 
 ## Atreus
