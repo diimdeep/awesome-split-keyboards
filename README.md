@@ -27,6 +27,7 @@
   - [Mitosis](#mitosis)
   - [Dactyl](#dactyl)
   - [Dactyl-ManuForm](#dactyl-manuform)
+  - [Tractyl-ManuForm](#tractyl-manuform)
   - [Atreus](#atreus)
   - [Atreus62](#atreus62)
   - [Atreis](#atreis)
@@ -274,6 +275,10 @@ https://github.com/tshort/dactyl-keyboard
 
 <img src="img/Dactyl-ManuForm.jpg" width="400px"/>
 
+## Tractyl-ManuForm
+https://github.com/noahprince22/tractyl-manuform-keyboard
+
+<img src="img/Tractyl-ManuForm.jpg" width="400px"/>
 
 ## Atreus
 https://github.com/technomancy/atreus
