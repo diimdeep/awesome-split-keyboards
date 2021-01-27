@@ -1,6 +1,7 @@
 # Awesome Split Keyboards [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
   - [Ergodox](#ergodox)
+  - [Quefrency Rev 2.](#quefrency)
   - [Ergodox infinity](#ergodox-infinity)
   - [ErgoDox EZ](#ergodox-ez)
   - [Ergodone](#ergodone)
@@ -137,6 +138,13 @@ https://keeb.io/collections/frontpage/products/fourier-40-split-staggered-keyboa
 https://github.com/qmk/qmk_firmware/tree/master/keyboards/georgi
 
 <img src="img/Georgi.jpg" width="400px"/> <img src="img/Georgi2.jpg" width="400px"/>
+
+## Quefrency
+
+https://keeb.io/collections/split-keyboard-parts/products/quefrency-rev-2-60-65-split-staggered-keyboard
+
+<img src="img/quefrency.jpg" width="400px"/>
+
 
 ## Gergo
 [gboards.ca](https://www.gboards.ca)  
