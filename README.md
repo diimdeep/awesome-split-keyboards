@@ -1,7 +1,5 @@
 # Awesome Split Keyboards [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-## Contents
-- [Awesome Split Keyboards <a href="https://awesome.re" rel="nofollow"><img src="https://camo.githubusercontent.com/1997c7e760b163a61aba3a2c98f21be8c524be29/68747470733a2f2f617765736f6d652e72652f62616467652e737667" alt="Awesome" data-canonical-src="https://awesome.re/badge.svg" style="max-width:100\x;"></a>](#awesome-split-keyboards-)
   - [Ergodox](#ergodox)
   - [Ergodox infinity](#ergodox-infinity)
   - [ErgoDox EZ](#ergodox-ez)
@@ -44,6 +42,7 @@
   - [Kinesis Advantage](#kinesis-advantage)
   - [Kinesis Freestyle Pro](#kinesis-freestyle-pro)
   - [Matias Ergo Pro](#matias-ergo-pro)
+  - [Goldtouch Go!2](#goldtouch-go2)
   - [Maltron](#maltron)
   - [Cherry ErgoPlus MX 5000 (G80-5000)](#cherry-ergoplus-mx-5000-g80-5000)
   - [Dygma Raise](#dygma-raise)
@@ -51,30 +50,34 @@
   - [Dumang DK6](#dumang-dk6)
   - [Lily58](#lily58)
   - [R-Go Split](#r-go-split)
-  - [Moonlander](#moonlander)
+  - [Moonlander (Mark I)](#moonlander-mark-i)
   - [Sofle](#sofle)
   - [Pinky](#pinky)
   - [Colosseum](#colosseum)
   - [Ergoinu](#ergoinu)
-  - [DO IT YOURSELF](#do-it-yourself)
-    - [How to](#how-to)
+  - [BUILD YOUR OWN KEYBOARD](#build-your-own-keyboard)
+    - [Plates & Cases](#plates--cases)
+      - [Laser Cutting](#laser-cutting)
+      - [3D Printing](#3d-printing)
+    - [Electronics](#electronics)
+      - [PCBs](#pcbs)
     - [Firmware](#firmware)
+  - [Keyboard Information](#keyboard-information)
     - [Keycaps](#keycaps)
     - [Switches](#switches)
-    - [Switches tester](#switches-tester)
+    - [Switch Testers](#switch-testers)
   - [Shopping](#shopping)
+    - [Keycaps](#keycaps-1)
+    - [Cables](#cables)
   - [Community](#community)
     - [Forums](#forums)
     - [Wiki](#wiki)
     - [Chat](#chat)
   - [Ergonomics](#ergonomics)
-  - [RSI](#rsi)
+    - [RSI](#rsi)
   - [More split keyboards](#more-split-keyboards)
-  - [About](#about)
     - [Contributing](#contributing)
     - [License](#license)
-    - [About this fork](#about-this-fork)
-
 
 ## Ergodox
 https://www.ergodox.io
@@ -367,6 +370,11 @@ https://matias.ca/ergopro/pc/
 
 <img src="img/matias_ergo_pro.jpg" width="400px"/>
 
+## Goldtouch Go!2
+[goldtouch.com](https://www.goldtouch.com/best-ergonomic-keyboard/)
+
+<img src="img/Goldtouch-Go2.jpg" width="400px"/>
+
 ## Maltron
 https://en.wikipedia.org/wiki/Maltron
 
@@ -440,7 +448,7 @@ https://github.com/hsgw/ergoinu
 
 <img src="img/ergoinu.jpg" width="400px"/>
 
-## BUILD YOUR OWN KEYBOARD
+## Build your own keyboard (Do it yourself - DIY)
 
 - [Tool for comparing split keyboard layouts](https://jhelvy.shinyapps.io/splitkbcompare/)
 - https://github.com/ruiqimao/keyboard-pcb-guide
@@ -595,7 +603,6 @@ https://github.com/hsgw/ergoinu
 ### RSI
 - [Repetitive Strain Injury](http://web.eecs.umich.edu/~cscott/rsi.html)
 - [A programmer’s guide to healing RSI](https://blog.evanweaver.com/2012/09/05/a-programmers-guide-to-healing-rsi)
-
 
 ## More split keyboards
 
