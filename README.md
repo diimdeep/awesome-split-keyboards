@@ -97,9 +97,7 @@ https://ergodox-ez.com
 
 
 ## Ergodone
-https://kbdfans.cn/collections/pcb/products/ergodone-keyboard-pcb-1pcs-free-shipping
-https://kbdfans.cn/products/ergodone-keyboard-pcb-1pcs-free-shipping
-https://ru.aliexpress.com/store/product/ergodone-Custom-Mechanical-Keyboard-TKG-TOOLS-PCB-programmed-Ergonomic-Keyboard-Kit-similar-with-infinity-ergodox/3034003_32830050940.html
+[PCB (aliexpress)](https://s.click.aliexpress.com/e/_AKn6Y7) [Case (aliexpres)](https://s.click.aliexpress.com/e/_ADcipV)
 
 <img src="img/Ergodone.jpg" width="400px"/> <img src="img/Ergodone_PCB.jpg" width="400px"/>
 
@@ -528,21 +526,22 @@ https://github.com/hsgw/ergoinu
 <img src="img/switch diagram lol.jpg" width="200px"/>
 
 ### Switch Testers
+- [130 cherry kailh gateron outemu ice ttc ormon ysa acrylic base (aliexpress)](https://s.click.aliexpress.com/e/_A58o6P)
+- [81 Cherry Kailh Gateron Outemu acrylic base (aliexpress)](https://s.click.aliexpress.com/e/_A3e9cf)
+- [24 Kailh acrylic base (aliexpress)](https://s.click.aliexpress.com/e/_ANrWUT)
+- [2x2 aluminium base (aliexpress)](https://s.click.aliexpress.com/e/_Ar7BAT)
 - [KBDfans](https://kbdfans.com/collections/switches-tester)
-- [NovelKeys](https://novelkeys.xyz/collections/switch-testers)
-- KBDfans 63 switches with DSA keycaps [ebay](https://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&toolid=11800&pub=5575419094&campid=5338362280&mpre=https%3A%2F%2Fwww.ebay.com%2Fitm%2FKBDfans-Mechanical-keyboard-Super-Swithes-Tester-63-switches-with-DSA-keycap%2F253530883073) [aliexpress](http://s.click.aliexpress.com/e/bkTLDYAc)
-- https://novelkeys.xyz/collections/switch-testers/products/25-slot-switch-tester
 
 <img src="img/switch_tester.jpg" width="200px"/> <img src="img/switch_tester2.jpg" width="200px"/> <img src="img/switches.jpg" width="200px"/>
 
 ## Shopping
-- [1upkeyboards](https://1upkeyboards.com)
-- [CandyKeys](https://candykeys.com)
-- [FalbaTech](https://falba.tech)
+- [1upkeyboards.com](https://1upkeyboards.com)
+- [CandyKeys.com](https://candykeys.com)
+- [FalbaTech.tech](https://falba.tech)
 - [Input Club](https://input.club)
-- [KBDfans](https://kbdfans.com)
+- [KBDfans.com](https://kbdfans.com)
 - [The Keyboard Company](https://keyboardco.com)
-- [KPrepublic](https://kprepublic.com)
+- [KPrepublic.com](https://kprepublic.com), [aliexpress](https://kprepublic.aliexpress.ru/store/3034003)
 - [Little Keyboards](https://littlekeyboards.com)
 - [Mechanical Keyboards Inc](https://mechanicalkeyboards.com)
 - [Mechboards](https://mechboards.co.uk)
@@ -602,16 +601,8 @@ https://github.com/hsgw/ergoinu
 
 You may also want to check out the [Split Keyboards](https://docs.google.com/spreadsheets/d/19-rTWbp8SCKdZFByPZu3RT8NSF8vVddDe8WL6R6b1qQ/edit#gid=0) spreadsheet, maintained by /u/dnlglsn.
 
-## About
-Born while doing research for first split keyboard.
-
 ### Contributing
 Contributions welcome!
 
 ### License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-### About this fork
-It was created to help reduce inactivity on this list, and to make it a great living document!
-
-I used https://stackoverflow.com/a/57316640/377456 to copy over all the PRs from the original repo, and merged them manually.
