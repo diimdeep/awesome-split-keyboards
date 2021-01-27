@@ -4,12 +4,15 @@
   - [Ergodox infinity](#ergodox-infinity)
   - [ErgoDox EZ](#ergodox-ez)
   - [Ergodone](#ergodone)
+  - [Ergotravel](#ergotravel)
+  - [Fortitude60](#fortitude60)
+  - [For Science](#for-science)
+  - [Fourier 40](#fourier-40)
   - [Georgi](#georgi)
   - [Gergo](#gergo)
   - [Redox](#redox)
   - [Let's Split](#lets-split)
   - [Minidox](#minidox)
-  - [Ergotravel](#ergotravel)
   - [Helix](#helix)
   - [Corne](#corne)
   - [Zen](#zen)
@@ -17,13 +20,10 @@
   - [Chimera Ergo](#chimera-ergo)
   - [Kyria](#kyria)
   - [Iris](#iris)
-  - [Fortitude60](#fortitude60)
   - [Levinson](#levinson)
   - [Viterbi](#viterbi)
-  - [Fourier 40](#fourier-40)
   - [Nyquist](#nyquist)
   - [BFO-9000](#bfo-9000)
-  - [For Science](#for-science)
   - [Mitosis](#mitosis)
   - [Dactyl](#dactyl)
   - [Dactyl-ManuForm](#dactyl-manuform)
@@ -32,7 +32,6 @@
   - [Atreis](#atreis)
   - [Pteron](#pteron)
   - [CatBoard](#catboard-)
-  - [Gergo](#gergo-1)
   - [Keyboard.io Model01](#keyboardio-model01)
   - [SmartYao/Koolertron Keyboard](#smartyaokoolertron-keyboard)
   - [Mistel Barocco](#mistel-barocco)
@@ -55,7 +54,7 @@
   - [Pinky](#pinky)
   - [Colosseum](#colosseum)
   - [Ergoinu](#ergoinu)
-  - [BUILD YOUR OWN KEYBOARD](#build-your-own-keyboard)
+  - [Build your own keyboard (Do it yourself - DIY)](#build-your-own-keyboard-do-it-yourself---diy)
     - [Plates & Cases](#plates--cases)
       - [Laser Cutting](#laser-cutting)
       - [3D Printing](#3d-printing)
@@ -104,19 +103,47 @@ https://ergodox-ez.com
 
 <img src="img/Ergodone.jpg" width="400px"/> <img src="img/Ergodone_PCB.jpg" width="400px"/>
 
+
+## Ergotravel
+https://github.com/jpconstantineau/ErgoTravel
+
+<img src="img/Ergotravel.jpg" width="400px"/>
+
+
+## Fortitude60
+
+https://github.com/Pekaso/fortitude60
+https://yushakobo.jp/shop/fortitude60
+
+<img src="img/Fortitude60-otakublack.jpeg" width="400px"/> <img src="img/Fortitude60-ikiriwhite.jpg" width="400px"/>
+
+
+## For Science
+https://github.com/peej/for-science-keyboard
+
+<img src="img/ForScience.jpg" width="400px"/> <img src="img/ForScience_PCB.png" width="400px"/>
+
+
+## Fourier 40
+https://keeb.io/collections/frontpage/products/fourier-40-split-staggered-keyboard
+
+<img src="img/Fourier40.jpg" width="400px"/>
+
+
 ## Georgi
-https://www.gboards.ca/
+[gboards.ca](https://www.gboards.ca)  
 
 https://github.com/qmk/qmk_firmware/tree/master/keyboards/georgi
 
 <img src="img/Georgi.jpg" width="400px"/> <img src="img/Georgi2.jpg" width="400px"/>
 
 ## Gergo
-https://www.gboards.ca/
-
-https://github.com/qmk/qmk_firmware/tree/master/keyboards/gergo
+[gboards.ca](https://www.gboards.ca)  
+[firmware](https://github.com/qmk/qmk_firmware/tree/master/keyboards/gergo)  
+[reddit](https://www.reddit.com/r/MechanicalKeyboards/search?q=gergo&restrict_sr=on)  
 
 <img src="img/Gergo.jpg" width="400px"/>  <img src="img/Gergo2.jpg" width="400px"/>
+
 
 ## Redox
 https://github.com/mattdibi/redox-keyboard
@@ -141,11 +168,6 @@ https://github.com/dotdash32/cases/tree/master/Minidox
 
 <img src="img/MiniDox.jpg" width="400px"/>
 
-
-## Ergotravel
-https://github.com/jpconstantineau/ErgoTravel
-
-<img src="img/Ergotravel.jpg" width="400px"/>
 
 
 ## Helix
@@ -204,14 +226,6 @@ https://github.com/keebio/iris-case
 <img src="img/Iris.jpg" width="400px"/>
 
 
-## Fortitude60
-
-https://github.com/Pekaso/fortitude60
-https://yushakobo.jp/shop/fortitude60
-
-<img src="img/Fortitude60-otakublack.jpeg" width="400px"/> <img src="img/Fortitude60-ikiriwhite.jpg" width="400px"/>
-
-
 ## Levinson
 
 https://keeb.io/products/levinson-lets-split-w-led-backlight
@@ -229,12 +243,6 @@ https://github.com/qmk/qmk_firmware/blob/master/keyboards/viterbi/readme.md
 <img src="img/Viterbi.jpg" width="400px"/>
 
 
-## Fourier 40
-https://keeb.io/collections/frontpage/products/fourier-40-split-staggered-keyboard
-
-<img src="img/Fourier40.jpg" width="400px"/>
-
-
 ## Nyquist
 https://keeb.io/collections/frontpage/products/nyquist-keyboard?variant=48309345990
 
@@ -245,12 +253,6 @@ https://keeb.io/collections/frontpage/products/nyquist-keyboard?variant=48309345
 https://keeb.io/products/bfo-9000-keyboard-customizable-full-size-split-ortholinear
 
 <img src="img/BFO-9000.jpg" width="400px"/> <img src="img/bfo9000_pcb.jpg" width="400px"/>
-
-
-## For Science
-https://github.com/peej/for-science-keyboard
-
-<img src="img/ForScience.jpg" width="400px"/> <img src="img/ForScience_PCB.png" width="400px"/>
 
 
 ## Mitosis
@@ -302,15 +304,6 @@ https://github.com/ibnteo/catboard
 https://habr.com/post/185500/
 
 <img src="img/catboard.jpg" width="400px"/> <img src="img/catboard_layout.png" width="400px"/>
-
-
-## Gergo
-
-https://www.gboards.ca/
-https://github.com/germ/qmk_firmware
-https://www.reddit.com/r/MechanicalKeyboards/search?q=gergo&restrict_sr=on
-
-<img src="img/Gergo.jpg" width="400px"/>
 
 
 ## Keyboard.io Model01
@@ -450,7 +443,7 @@ https://github.com/hsgw/ergoinu
 
 ## Build your own keyboard (Do it yourself - DIY)
 
-- [Tool for comparing split keyboard layouts](https://jhelvy.shinyapps.io/splitkbcompare/)
+- [Tool for comparing split keyboard layouts](https://jhelvy.shinyapps.io/splitkbcompare/), [github](https://github.com/jhelvy/splitKbCompare)
 - https://github.com/ruiqimao/keyboard-pcb-guide
 - A modern handwiring guide https://geekhack.org/index.php?topic=87689.0
 - https://wiki.geekhack.org/index.php?title=Hard-Wiring_How-To
