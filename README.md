@@ -55,6 +55,7 @@
   - [Pinky](#pinky)
   - [Colosseum](#colosseum)
   - [Ergoinu](#ergoinu)
+  - [Cloud Nine C989 ErgoFS](#C989)
   - [Build your own keyboard (Do it yourself - DIY)](#build-your-own-keyboard-do-it-yourself---diy)
     - [Plates & Cases](#plates--cases)
       - [Laser Cutting](#laser-cutting)
@@ -447,6 +448,12 @@ https://github.com/swanmatch/MxLEDBitPCB
 https://github.com/hsgw/ergoinu
 
 <img src="img/ergoinu.jpg" width="400px"/>
+
+## Cloud Nine C989 ErgoFS
+
+https://c9ergo.com/collections/split-keyboards/products/cloud-nine-c989m-ergonomic-keyboard
+
+<img src="img/C989.jpg" width="400px" />
 
 ## Build your own keyboard (Do it yourself - DIY)
 
