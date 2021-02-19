@@ -558,6 +558,9 @@ https://github.com/hsgw/ergoinu
 - [NovelKeys](https://novelkeys.xyz)
 - [RGBKB](https://rgbkb.net)
 - [splitkb.com](https://splitkb.com)
+- [Keycäpsss](https://keycapsss.com)
+- [Oh, Keycaps!](https://ohkeycaps.com)
+- [Keyhive](https://keyhive.xyz)
 
 ### Keycaps
 - [Pimp My Keyboard (Signature Plastics)](https://pimpmykeyboard.com)
