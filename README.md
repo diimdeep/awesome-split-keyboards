@@ -27,6 +27,7 @@
   - [Mitosis](#mitosis)
   - [Dactyl](#dactyl)
   - [Dactyl-ManuForm](#dactyl-manuform)
+  - [Ex-Dactyl](#ex-dactyl)
   - [Atreus](#atreus)
   - [Atreus62](#atreus62)
   - [Atreis](#atreis)
@@ -38,6 +39,7 @@
   - [Mistel Barocco](#mistel-barocco)
   - [VE.A](#vea)
   - [Ultimate Hacking Keyboard](#ultimate-hacking-keyboard)
+  - [Willow64](#willow64)
   - [X-Bows](#x-bows)
   - [Kinesis Advantage](#kinesis-advantage)
   - [Kinesis Freestyle Pro](#kinesis-freestyle-pro)
@@ -52,6 +54,7 @@
   - [R-Go Split](#r-go-split)
   - [Moonlander (Mark I)](#moonlander-mark-i)
   - [Sofle](#sofle)
+  - [Phoenix](#phoenix)
   - [Pinky](#pinky)
   - [Colosseum](#colosseum)
   - [Ergoinu](#ergoinu)
@@ -275,6 +278,11 @@ https://github.com/tshort/dactyl-keyboard
 <img src="img/Dactyl-ManuForm.jpg" width="400px"/>
 
 
+## Ex-Dactyl
+https://github.com/LSChyi/ex-dactyl-keyboard
+
+<img src="img/ex-dactyl.jpg" width="400px"/>
+
 ## Atreus
 https://github.com/technomancy/atreus
 
@@ -345,6 +353,12 @@ http://xahlee.info/kbd/VE.A_keyboard.html
 https://ultimatehackingkeyboard.com
 
 <img src="img/Ultimatehackingkeyboard.jpg" width="400px"/>
+
+
+## Willow64
+https://booth.pm/ja/items/2585965
+
+<img src="img/Willow64.jpg" width="400px"/>
 
 
 ## X-Bows
@@ -423,6 +437,11 @@ https://www.zsa.io/moonlander/
 https://josefadamcik.github.io/SofleKeyboard/
 
 <img src="img/sofle_keyboard.jpg" width="400px"/>
+
+## Phoenix
+https://www.ergokb.tw/products/phoenix/
+
+<img src="img/phoenix.jpg" width="400px"/>
 
 ## Pinky
 https://github.com/tamanishi/Pinky4
