@@ -281,7 +281,7 @@ https://github.com/tshort/dactyl-keyboard
 ## Ex-Dactyl
 https://github.com/LSChyi/ex-dactyl-keyboard
 
-<img src="img/ex-dactyl.jpg" width="400px"/>
+<img src="img/ex-dactyl-keyboard.jpg" width="400px"/>
 
 ## Atreus
 https://github.com/technomancy/atreus
