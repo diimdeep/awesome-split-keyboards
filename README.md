@@ -38,6 +38,7 @@
   - [Mistel Barocco](#mistel-barocco)
   - [VE.A](#vea)
   - [Ultimate Hacking Keyboard](#ultimate-hacking-keyboard)
+  - [Ellipsis Split](#ellipsis-split)
   - [X-Bows](#x-bows)
   - [Kinesis Advantage](#kinesis-advantage)
   - [Kinesis Freestyle Pro](#kinesis-freestyle-pro)
@@ -346,6 +347,10 @@ https://ultimatehackingkeyboard.com
 
 <img src="img/Ultimatehackingkeyboard.jpg" width="400px"/>
 
+## Ellipsis Split
+[Buildlog](https://www.csun.io/2020/06/14/ellipsis-split-buildlog.html) + [Files](https://github.com/csun/ellipsis_split_files)
+
+<img src="img/Ellipsis_Split.jpg" width="400px"/>
 
 ## X-Bows
 http://www.x-bows.com/
