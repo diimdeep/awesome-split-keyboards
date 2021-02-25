@@ -1,3 +1,4 @@
+- monkeytype.com
 - typing.md
 - typingclub.com
 - typebr.com

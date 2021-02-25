@@ -55,6 +55,7 @@
   - [Pinky](#pinky)
   - [Colosseum](#colosseum)
   - [Ergoinu](#ergoinu)
+  - [Zodiark](#zodiark)
   - [Build your own keyboard (Do it yourself - DIY)](#build-your-own-keyboard-do-it-yourself---diy)
     - [Plates & Cases](#plates--cases)
       - [Laser Cutting](#laser-cutting)
@@ -447,6 +448,13 @@ https://github.com/swanmatch/MxLEDBitPCB
 https://github.com/hsgw/ergoinu
 
 <img src="img/ergoinu.jpg" width="400px"/>
+
+## Zodiark
+
+https://discord.gg/QuK2ysTQEe
+
+<img src="img/Zodiark1.jpg" width="400px"/>
+<img src="img/Zodiark2.jpg" width="400px"/>
 
 ## Build your own keyboard (Do it yourself - DIY)
 
