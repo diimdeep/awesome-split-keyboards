@@ -100,7 +100,10 @@ https://ergodox-ez.com
 
 
 ## Ergodone
-[PCB (aliexpress)](https://s.click.aliexpress.com/e/_AKn6Y7) [Case (aliexpres)](https://s.click.aliexpress.com/e/_ADcipV)
+[PCB (aliexpress)](https://s.click.aliexpress.com/e/_AKn6Y7) [Case (aliexpres)](https://s.click.aliexpress.com/e/_ADcipV)  
+
+https://github.com/ktec-hq/ErgoDone  
+https://github.com/qmk/qmk_firmware/tree/master/keyboards/ergodone  
 
 <img src="img/Ergodone.jpg" width="400px"/> <img src="img/Ergodone_PCB.jpg" width="400px"/>
 
