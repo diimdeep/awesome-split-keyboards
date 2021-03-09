@@ -55,6 +55,7 @@
   - [Pinky](#pinky)
   - [Colosseum](#colosseum)
   - [Ergoinu](#ergoinu)
+  - [Ferris](#ferris)
   - [Build your own keyboard (Do it yourself - DIY)](#build-your-own-keyboard-do-it-yourself---diy)
     - [Plates & Cases](#plates--cases)
       - [Laser Cutting](#laser-cutting)
@@ -447,6 +448,12 @@ https://github.com/swanmatch/MxLEDBitPCB
 https://github.com/hsgw/ergoinu
 
 <img src="img/ergoinu.jpg" width="400px"/>
+
+## Ferris
+
+https://github.com/pierrechevalier83/ferris
+
+<img src="img/ferris.jpg" width="400px"/>
 
 ## Build your own keyboard (Do it yourself - DIY)
 
