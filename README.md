@@ -344,7 +344,7 @@ http://xahlee.info/kbd/VE.A_keyboard.html
 ## Ultimate Hacking Keyboard
 https://ultimatehackingkeyboard.com
 
-<img src="img/Ultimatehackingkeyboard.jpg" width="400px"/>
+<img src="img/uhk60v2.jpg" width="400px"/> <img src="img/uhk-modules.jpg" width="400px"/>
 
 
 ## X-Bows
