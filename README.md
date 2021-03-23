@@ -55,6 +55,10 @@
   - [Pinky](#pinky)
   - [Colosseum](#colosseum)
   - [Ergoinu](#ergoinu)
+  - [Zergotech Freedom](#zergotech-freedom)
+  - [DO IT YOURSELF](#do-it-yourself)
+    - [How to](#how-to)
+
   - [Build your own keyboard (Do it yourself - DIY)](#build-your-own-keyboard-do-it-yourself---diy)
     - [Plates & Cases](#plates--cases)
       - [Laser Cutting](#laser-cutting)
@@ -448,7 +452,14 @@ https://github.com/hsgw/ergoinu
 
 <img src="img/ergoinu.jpg" width="400px"/>
 
+## Zergotech-Freedom
+
+https://www.zergotech.com/products/zergotech-freedom-mechanical-ergonomic-keyboard
+
+<img src="img/Zergotech_Freedom.jpg" width="400px"/>
+
 ## Build your own keyboard (Do it yourself - DIY)
+
 
 - [Tool for comparing split keyboard layouts](https://jhelvy.shinyapps.io/splitkbcompare/), [github](https://github.com/jhelvy/splitKbCompare)
 - https://github.com/ruiqimao/keyboard-pcb-guide
