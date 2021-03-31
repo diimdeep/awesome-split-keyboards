@@ -55,6 +55,7 @@
   - [Pinky](#pinky)
   - [Colosseum](#colosseum)
   - [Ergoinu](#ergoinu)
+  - [Lagrange](#lagrange)
   - [Build your own keyboard (Do it yourself - DIY)](#build-your-own-keyboard-do-it-yourself---diy)
     - [Plates & Cases](#plates--cases)
       - [Laser Cutting](#laser-cutting)
@@ -447,6 +448,15 @@ https://github.com/swanmatch/MxLEDBitPCB
 https://github.com/hsgw/ergoinu
 
 <img src="img/ergoinu.jpg" width="400px"/>
+
+## Lagrange
+
+https://github.com/dpapavas/lagrange-keyboard
+
+<figure>
+<img src="img/lagrange.png" width="400px"/>
+<figcaption><sub><sup>Picture by <a href="https://github.com/dpapavas">Dimitris Papavasiliou</a> under <a href="https://github.com/dpapavas/lagrange-keyboard/blob/master/LICENSE.CC">CC BY-SA 4.0</a></sup></sub></figcaption>
+</figure>
 
 ## Build your own keyboard (Do it yourself - DIY)
 
