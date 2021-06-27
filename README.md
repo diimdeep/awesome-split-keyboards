@@ -55,6 +55,7 @@
   - [Pinky](#pinky)
   - [Colosseum](#colosseum)
   - [Ergoinu](#ergoinu)
+  - [Atreyu](#atreyu)
   - [Build your own keyboard (Do it yourself - DIY)](#build-your-own-keyboard-do-it-yourself---diy)
     - [Plates & Cases](#plates--cases)
       - [Laser Cutting](#laser-cutting)
@@ -276,7 +277,7 @@ https://github.com/tshort/dactyl-keyboard
 
 
 ## Atreus
-https://github.com/technomancy/atreus
+https://gitlab.com/technomancy/atreus
 
 <img src="img/Atreus.jpg" width="400px"/>
 
@@ -447,6 +448,12 @@ https://github.com/swanmatch/MxLEDBitPCB
 https://github.com/hsgw/ergoinu
 
 <img src="img/ergoinu.jpg" width="400px"/>
+
+## Atreyu
+
+https://github.com/climent/atreyu
+
+<img src="img/Atreyu.jpg" width="400px"/>
 
 ## Build your own keyboard (Do it yourself - DIY)
 
