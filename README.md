@@ -544,6 +544,7 @@ https://github.com/hsgw/ergoinu
 
 ## Shopping
 - [1upkeyboards.com](https://1upkeyboards.com)
+  [boardsource.xyz](https://boardsource.xyz/store)
 - [CandyKeys.com](https://candykeys.com)
 - [FalbaTech.tech](https://falba.tech)
 - [Input Club](https://input.club)
