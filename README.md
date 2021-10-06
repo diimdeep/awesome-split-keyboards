@@ -1,7 +1,7 @@
 # Awesome Split Keyboards [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
   - [Ergodox](#ergodox)
-  - [Ergodox infinity](#ergodox-infinity)
+  - [Ergodox Infinity](#ergodox-infinity)
   - [ErgoDox EZ](#ergodox-ez)
   - [Ergodone](#ergodone)
   - [Ergotravel](#ergotravel)
@@ -86,7 +86,7 @@ https://www.ergodox.io
 <img src="img/ErgoDox-original-min.png" width="400px"/>
 
 
-## Ergodox infinity
+## Ergodox Infinity
 https://input.club/devices/infinity-ergodox/
 
 <img src="img/ErgoDox_Infinity.jpg" width="400px"/> <img src="img/ErgoDox_Infinity_PCB.jpg" width="400px"/>
