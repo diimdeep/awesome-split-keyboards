@@ -49,6 +49,7 @@
   - [ErgoDash](#ergodash)
   - [Dumang DK6](#dumang-dk6)
   - [Lily58](#lily58)
+  - [Lotus58](#lotus58)
   - [R-Go Split](#r-go-split)
   - [Moonlander (Mark I)](#moonlander-mark-i)
   - [Sofle](#sofle)
@@ -408,6 +409,12 @@ http://www.beyondq.com/
 https://github.com/kata0510/Lily58
 
 <img src="img/lily58_keyboard.jpg" width="400px"/>
+
+## Lotus58
+https://github.com/TweetyDaBird/Lotus58
+https://github.com/TweetyDaBird/Lotus58/wiki
+
+<img src="img/lotus58.jpg" width="400px"/>
 
 ## R-Go Split
 https://www.r-go-tools.com/products/ergonomic-keyboards/r-go-split/
