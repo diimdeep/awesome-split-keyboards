@@ -505,6 +505,8 @@ https://github.com/hsgw/ergoinu
   - [QMK Firmware](https://github.com/qmk/qmk_firmware)
   - [QMK Toolbox](https://github.com/qmk/qmk_toolbox)
 - [VIA](https://caniusevia.com)
+- [ZMK](https://zmk.dev/)
+  - [ZMK Firmware](https://github.com/zmkfirmware)
 
 ## Keyboard Information
 - [Keyboard Terminology](https://deskthority.net/wiki/Keyboard_terminology)
