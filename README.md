@@ -1,5 +1,6 @@
 # Awesome Split Keyboards [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
+  - [mini36](#mini36)
+  - [mini42](#mini42)
   - [Ergodox](#ergodox)
   - [Ergodox infinity](#ergodox-infinity)
   - [ErgoDox EZ](#ergodox-ez)
@@ -78,6 +79,18 @@
   - [More split keyboards](#more-split-keyboards)
     - [Contributing](#contributing)
     - [License](#license)
+    
+## mini36
+
+[Pre-Built from Controller.works](https://controller.works/products/mini36-low-profile-ergonomic-keyboard)
+
+<img src="img/mini36.jpg" width="400px"/>
+
+## mini42
+
+[Pre-Built from Controller.works](https://controller.works/products/mini42-low-profile-ergonomic-keyboard)
+
+<img src="img/mini42.png" width="400px"/>
 
 ## Ergodox
 https://www.ergodox.io
@@ -545,6 +558,7 @@ https://github.com/hsgw/ergoinu
 ## Shopping
 - [1upkeyboards.com](https://1upkeyboards.com)
 - [CandyKeys.com](https://candykeys.com)
+- [Controller.works](https://controller.works)
 - [FalbaTech.tech](https://falba.tech)
 - [Input Club](https://input.club)
 - [KBDfans.com](https://kbdfans.com)
