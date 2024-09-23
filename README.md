@@ -475,6 +475,8 @@ https://github.com/hsgw/ergoinu
 - [ai03 Plate Generator](https://kbplate.ai03.me)
 - [Plate & Case Builder](http://builder.swillkb.com)
   - Keyboard top plate CAD files generator, for keyboard-layout-editor generated layouts
+- [Ssnakeskin case and travel case generator](https://github.com/BlueDrink9/keeb_snakeskin)
+  - Create a cool PCB case and travel case for split keyboards or other custom PCBs
 
 #### Laser Cutting
 - [Awesome Laser Cutting](https://github.com/ad-si/awesome-laser-cutting)
