@@ -558,6 +558,7 @@ https://github.com/hsgw/ergoinu
 - [NovelKeys](https://novelkeys.xyz)
 - [RGBKB](https://rgbkb.net)
 - [splitkb.com](https://splitkb.com)
+- PT-BR [tupinikeebs.com](https://tupinikeebs.com/) (for brazillian who blame pain while coding)
 
 ### Keycaps
 - [Pimp My Keyboard (Signature Plastics)](https://pimpmykeyboard.com)
