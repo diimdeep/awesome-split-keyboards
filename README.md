@@ -13,8 +13,11 @@
   - [Redox](#redox)
   - [Let's Split](#lets-split)
   - [Minidox](#minidox)
+  - [Hallie](#hallie)
+  - [Harper](#harper)
   - [Helix](#helix)
   - [Corne](#corne)
+  - [Cleo](#cleo)
   - [Zen](#zen)
   - [Sol](#sol)
   - [Chimera Ergo](#chimera-ergo)
@@ -48,6 +51,8 @@
   - [Dygma Raise](#dygma-raise)
   - [ErgoDash](#ergodash)
   - [Dumang DK6](#dumang-dk6)
+  - [Lea](#lea)
+  - [Lea Choc](#lea-choc)
   - [Lily58](#lily58)
   - [R-Go Split](#r-go-split)
   - [Moonlander (Mark I)](#moonlander-mark-i)
@@ -447,6 +452,36 @@ https://github.com/swanmatch/MxLEDBitPCB
 https://github.com/hsgw/ergoinu
 
 <img src="img/ergoinu.jpg" width="400px"/>
+
+## Cleo
+
+https://splitted.space/en/keyboard/split-keyboard-cleo
+
+<img src="img/Cleo.png" width="400px"/>
+
+## Hallie
+
+https://splitted.space/en/keyboard/wireless-low-profile-split-keyboard-hallie
+
+<img src="img/Hallie.png" width="400px"/>
+
+## Harper
+
+https://splitted.space/en/keyboard/wireless-split-keyboard-harper
+
+<img src="img/Harper.png" width="400px"/>
+
+## Lea
+
+https://splitted.space/en/keyboard/split-keyboard-lea
+
+<img src="img/Lea.png" width="400px"/>
+
+## Lea Choc
+
+https://splitted.space/en/keyboard/low-profile-split-keyboard-lea-choc
+
+<img src="img/Lea Choc.png" width="400px"/>
 
 ## Build your own keyboard (Do it yourself - DIY)
 
