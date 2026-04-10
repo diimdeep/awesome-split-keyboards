@@ -79,6 +79,7 @@
     - [Contributing](#contributing)
     - [License](#license)
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=diimdeep_awesome-split-keyboards) - Follow developers on GitHub and see what repos they star. Like a social feed for repo discovery.
 ## Ergodox
 https://www.ergodox.io
 [Tenting](https://github.com/adereth/ergodox-tent)
