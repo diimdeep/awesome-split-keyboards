@@ -37,7 +37,8 @@
   - [SmartYao/Koolertron Keyboard](#smartyaokoolertron-keyboard)
   - [Mistel Barocco](#mistel-barocco)
   - [VE.A](#vea)
-  - [Ultimate Hacking Keyboard](#ultimate-hacking-keyboard)
+  - [Ultimate Hacking Keyboard 80](#ultimate-hacking-keyboard-80)
+  - [Ultimate Hacking Keyboard 60v2](#ultimate-hacking-keyboard-60v2)
   - [X-Bows](#x-bows)
   - [Kinesis Advantage](#kinesis-advantage)
   - [Kinesis Freestyle Pro](#kinesis-freestyle-pro)
@@ -55,6 +56,10 @@
   - [Pinky](#pinky)
   - [Colosseum](#colosseum)
   - [Ergoinu](#ergoinu)
+  - [Zergotech Freedom](#zergotech-freedom)
+  - [DO IT YOURSELF](#do-it-yourself)
+    - [How to](#how-to)
+
   - [Build your own keyboard (Do it yourself - DIY)](#build-your-own-keyboard-do-it-yourself---diy)
     - [Plates & Cases](#plates--cases)
       - [Laser Cutting](#laser-cutting)
@@ -341,10 +346,15 @@ http://xahlee.info/kbd/VE.A_keyboard.html
 <img src="img/VEA.jpg" width="400px"/>
 
 
-## Ultimate Hacking Keyboard
+## Ultimate Hacking Keyboard 80
 https://ultimatehackingkeyboard.com
 
-<img src="img/Ultimatehackingkeyboard.jpg" width="400px"/>
+<img src="img/Ultimatehackingkeyboard-80.jpg" width="400px"/>
+
+## Ultimate Hacking Keyboard 60v2
+https://ultimatehackingkeyboard.com
+
+<img src="img/Ultimatehackingkeyboard-60v2.jpg" width="400px"/>
 
 
 ## X-Bows
@@ -448,7 +458,14 @@ https://github.com/hsgw/ergoinu
 
 <img src="img/ergoinu.jpg" width="400px"/>
 
+## Zergotech-Freedom
+
+https://www.zergotech.com/products/zergotech-freedom-mechanical-ergonomic-keyboard
+
+<img src="img/Zergotech_Freedom.jpg" width="400px"/>
+
 ## Build your own keyboard (Do it yourself - DIY)
+
 
 - [Tool for comparing split keyboard layouts](https://jhelvy.shinyapps.io/splitkbcompare/), [github](https://github.com/jhelvy/splitKbCompare)
 - https://github.com/ruiqimao/keyboard-pcb-guide
